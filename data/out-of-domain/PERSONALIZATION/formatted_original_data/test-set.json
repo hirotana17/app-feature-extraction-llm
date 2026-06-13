@@ -1,0 +1,546 @@
+[
+  {
+    "id": "76d09e77-c0f4-4e9f-82c0-29a6c928076b_s0",
+    "package_name": "com.whatsapp.wallpaper",
+    "app_name": "WhatsApp Wallpaper",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "WhatsApp should need to make personal stickers adding option in WhatsApp aap .",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "f0eea5a2-86bd-4ef4-b6a6-671ea41c98fc_s0",
+    "package_name": "com.whatsapp.wallpaper",
+    "app_name": "WhatsApp Wallpaper",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I want any indresting stickers",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "96fa807e-a43e-4caf-855a-c73b3f829721_s0",
+    "package_name": "com.whatsapp.wallpaper",
+    "app_name": "WhatsApp Wallpaper",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I would have given no star ... but i have to give two because of ur good wallpapers but the problem is there is a notification coming \" can't load pls retry \" every time",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "4b71ea68-c34d-4c46-b3cc-df64876085c7_s0",
+    "package_name": "com.whatsapp.wallpaper",
+    "app_name": "WhatsApp Wallpaper",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "it is soooooo bad when i choose my wallpaper there is an notification on the screen cant load please try again and then when i try again the same notification was there and my preahious wallpaper was also gone and i hate it so please fix this problem",
+    "output": [
+      "notification",
+      "notification"
+    ]
+  },
+  {
+    "id": "bc71a7c0-3b55-445b-8a92-bf66dd16dbd2_s0",
+    "package_name": "com.whatsapp.wallpaper",
+    "app_name": "WhatsApp Wallpaper",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Please add a lot of sticker because it have less sticker , im iranian !",
+    "output": [
+      "sticker",
+      "sticker"
+    ]
+  },
+  {
+    "id": "ea830662-9964-4d2c-844f-3cc778cac3e8_s2",
+    "package_name": "com.whatsapp.wallpaper",
+    "app_name": "WhatsApp Wallpaper",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "1 . It does n't let you test emojis or stickers , just that default message ; 2 . There are only a few backgrounds , without the possibility of adding more , from your gallery ; 3 . There are no settings or ways to adjust those backgrounds , like lighting or quality .",
+    "output": [
+      "stickers",
+      "message"
+    ]
+  },
+  {
+    "id": "8c31af6a-b000-4cf3-93cf-04c5ff232b8e_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Why this fsukin notification",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "2c70720a-5add-421a-9915-789522ffe211_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Terrible app for coloured notifications .",
+    "output": [
+      "notifications"
+    ]
+  },
+  {
+    "id": "5c5e13d8-7b86-438a-a6e5-f233d383c5a5_s2",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "All had too many ads , poor lighting , or lousy notifications .",
+    "output": [
+      "notifications"
+    ]
+  },
+  {
+    "id": "fd8aa135-cdf9-4b49-b702-22fe352f6115_s2",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Does n't show notifications .",
+    "output": [
+      "notifications"
+    ]
+  },
+  {
+    "id": "764d36f0-8c7b-44f7-9d80-36d3e2b54c9d_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "If you 're like me and can't stand to have a blank screen when your phone is off and want consistent access to your notifications , this is the app for you .",
+    "output": [
+      "notifications"
+    ]
+  },
+  {
+    "id": "764d36f0-8c7b-44f7-9d80-36d3e2b54c9d_s2",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "If it were n't for this app , I 'd never know when I have notifications unless I was next to it to hear every sound .",
+    "output": [
+      "notifications"
+    ]
+  },
+  {
+    "id": "3cd26cec-4828-43f2-b1c1-0b03063c2788_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Working fine but the notification icons are not using the brightness setting set for the clock , can it be fixed ?",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "74dccff1-565d-44d6-8df2-268c9fc6c9b7_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "app is a big battery hog , Developer never responds to any emails Notification Wake did not work on my S21",
+    "output": [
+      "Notification"
+    ]
+  },
+  {
+    "id": "4e913b7c-4f75-489c-ad79-51accbcffd82_s1",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Simulation of Notifications LED & shifting of AOD to Prevent pixel burn is Great & make it upto OEM standards , Using it on my new OnePlus 7",
+    "output": [
+      "Notifications"
+    ]
+  },
+  {
+    "id": "661b727c-902f-4a08-beef-fe8226110982_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Good for phones that do n't have a notification LED .",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "5e5d47f0-df59-4209-974b-d6fe49439e9f_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "The notification icons are getting the text color regardless of selecting the app color option in the settings .",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "a264c20d-3934-4fc9-9cac-b3b3eb294b50_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "The AOD has the features I love , I can get the notification display without the clock .",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "1508ae2d-c48e-41f9-9728-ef7a12d55293_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Issues with notification .",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "1508ae2d-c48e-41f9-9728-ef7a12d55293_s1",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Tested with whatsapp notification ; but its not visible on always on screen .",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "3cecb840-6ea6-4cae-9ee2-a63edfbf267c_s3",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I would also like to see the notification icons appear in their original colors .",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "50246769-b0f5-4edb-a11d-639f63ee819f_s0",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I love this app and i want to give 5 star but only one problem it does n't show notification icon as I already turned on notification for other apps but no and edge glow effect also does n't work or my Infinix mobile",
+    "output": [
+      "notification",
+      "notification"
+    ]
+  },
+  {
+    "id": "c9bcf18f-e107-4ff9-8f25-1c96e9200df3_s1",
+    "package_name": "com.tomer.alwayson",
+    "app_name": "Always On AMOLED",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I only want to make my phone show time when notification arrives or I tap / double tap on the screen .....",
+    "output": [
+      "notification"
+    ]
+  },
+  {
+    "id": "e866f1c8-2af5-4bd7-8d80-962f03b824e9_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "The the stickers are so funny and cool",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "ae767ddf-9bf4-424a-a18c-b06a41298d2b_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I downloaded a some stickers and I wanted to show my friend on WhatsApp but there was n't any please fix it",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "dee99ec1-4f2a-419e-8129-ed5c1e20cf65_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "It has stickers i guess",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "e034a48b-fc69-4c6c-a614-dc85588d227c_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I like this stickers !",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "d70997cd-b944-4e6c-a359-72ccd8984789_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I really love the app stickers and its funny too",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "3623ff38-f658-4625-9bd6-88d2f79905a4_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "This app is the best for whatsapp stickers",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "5cd848a9-d93a-452b-b766-e4625ee5c7a0_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I love D stickers buh too much ad😅bummer",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "0686418f-2a44-4629-9b7b-f81bc6d2a553_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "This app is amazing and I can find any anime stickers 😍",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "a0baeae6-4383-4d3f-b32e-d12251cbef43_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "There are so many good stickers omg 😭😭 Anyways u shud download it its amazing",
+    "output": [
+      "stickers"
+    ]
+  },
+  {
+    "id": "d4b27cf9-844e-4e97-b952-d36b910d2306_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Stickers are good but they are unavailable after 2 days in whatsapp .",
+    "output": [
+      "Stickers"
+    ]
+  },
+  {
+    "id": "7adf8f7c-40d3-482a-9118-d0ecfc97f1f4_s0",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Ca n't add ONE PIECE sticker 😶",
+    "output": [
+      "sticker"
+    ]
+  },
+  {
+    "id": "23e529be-7fae-40d1-979a-a9514235c67a_s1",
+    "package_name": "com.top.anime.stickers",
+    "app_name": "Anime Stickers for Whatsapp",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "Ca n't even download a sticker take a whole eternity to \" please wait \"",
+    "output": [
+      "sticker"
+    ]
+  },
+  {
+    "id": "a1f10a20-821e-4e46-8020-5e3a65177bb9_s1",
+    "package_name": "com.rawleeks.manager",
+    "app_name": "Manager Watch Face",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "PERSONALIZATION"
+    ],
+    "input": "I set checkbox custom , I tap custom location , I enter London , I see London in the app's custom dialig box , I do n't see any other controls to apply this custom value London , I tried to swipe left , I tried to press the back button - in all cases I constantly see the old Mountain View location without any notifications , payment requirements or etc .",
+    "output": [
+      "notifications"
+    ]
+  }
+]

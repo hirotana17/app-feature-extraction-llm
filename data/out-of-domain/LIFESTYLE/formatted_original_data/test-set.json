@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cd07445c-38c7-41c2-9d36-ebdb5fed1166_s4",
+    "package_name": "habittracker.todolist.tickit.daily.planner",
+    "app_name": "Habit Tracker - Habit Diary",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "Also please add a feature to arrange it like a daily planner , ( i.e. starting from 5:00 am and so on ) because your daily routine is your daily habits .",
+    "output": [
+      "planner"
+    ]
+  },
+  {
+    "id": "061246ec-9d36-4543-87a3-6be70b703abc_s1",
+    "package_name": "net.daylio",
+    "app_name": "Daylio Journal - Mood Tracker",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "The best kind of daily diary and goal planner I 've seen .",
+    "output": [
+      "planner"
+    ]
+  },
+  {
+    "id": "25687cef-ece5-4fca-ae39-66856a3c983d_s1",
+    "package_name": "net.daylio",
+    "app_name": "Daylio Journal - Mood Tracker",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "This is the BEST mood tracking app for those who just want to track it , not be pushed in any direction except consistency .",
+    "output": [
+      "mood tracking"
+    ]
+  },
+  {
+    "id": "809d51fa-121b-43a2-896e-7e46afd63ef8_s0",
+    "package_name": "com.bigheadtechies.diary",
+    "app_name": "Daybook - Diary, Journal, Note",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "This is what Ive been looking for as replacement for a diary / planner",
+    "output": [
+      "planner"
+    ]
+  },
+  {
+    "id": "42f12f15-ac7d-4d01-93e3-22322e318e67_s1",
+    "package_name": "com.google.android.apps.chromecast.app",
+    "app_name": "Google Home",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "Anti-consumer practices like removing IFTTT integration , no actual support except forums with other people upset with the same issues etc .",
+    "output": [
+      "IFTTT integration"
+    ]
+  }
+]
