@@ -182,16 +182,9 @@ unsloth_compiled_cache/
 
 # Keep only raw/formatted source data under each bin/category.
 !data/in-domain/
-!data/out-of-domain/
 !data/in-domain/*/
-!data/out-of-domain/*/
 !data/in-domain/*/original_data/
 !data/in-domain/*/original_data/**
 !data/in-domain/*/formatted_original_data/
 !data/in-domain/*/formatted_original_data/**
-!data/out-of-domain/*/original_data/
-!data/out-of-domain/*/original_data/**
-!data/out-of-domain/*/formatted_original_data/
-!data/out-of-domain/*/formatted_original_data/**
-
 
