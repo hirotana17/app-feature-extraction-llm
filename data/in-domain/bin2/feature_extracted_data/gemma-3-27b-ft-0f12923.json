@@ -1,0 +1,7482 @@
+[
+  {
+    "id": "341f9b5c-93aa-4674-9da3-4cd09caef272_s3",
+    "package_name": "com.wlex.android.weather",
+    "app_name": "LEX18 Storm Tracker Weather",
+    "app_category": [
+      "Weather"
+    ],
+    "google_play_category": [
+      "WEATHER"
+    ],
+    "input": "I love channel 18 news and weather , have enjoyed for years , but their weather app , well to be honest it sucks !!",
+    "output": [
+      "channel"
+    ],
+    "review_number": 1,
+    "extracted_features": [
+      "weather"
+    ]
+  },
+  {
+    "id": "d2b444ab-6cc1-4375-9625-cdeaf8b5efb1_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "I made YouTube videos with this also my channel is jaymer the gamer",
+    "output": [
+      "channel"
+    ],
+    "review_number": 2,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "1597471c-0220-422d-80a8-070bd0d27fe0_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "This app is so cool I make videos check my channel down below",
+    "output": [
+      "channel"
+    ],
+    "review_number": 3,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "f71f8c37-bdd1-4002-bb22-5b571ef77b31_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "It is amazing so much to so because of you i made a channel Emmy and max murder squad check it out and its sort of cringe but sup like share and comment but love you lunie uwu",
+    "output": [
+      "channel"
+    ],
+    "review_number": 4,
+    "extracted_features": [
+      "comment"
+    ]
+  },
+  {
+    "id": "38ead7d2-9998-4427-89fa-6bc7449f3d03_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "My dauhter tryed this app and she loves it she even got so many views on her youtube channel because of this so yes try this out for yourselfs",
+    "output": [
+      "channel"
+    ],
+    "review_number": 5,
+    "extracted_features": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "3f94621c-d0d5-484f-a1bd-c3c148503509_s2",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "Well my channel has only 5 subs idk why or im just bad at making some contents ..",
+    "output": [
+      "channel"
+    ],
+    "review_number": 6,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "3f94621c-d0d5-484f-a1bd-c3c148503509_s4",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "And I can't stop playing it .. Could you subscribe on my channel ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 7,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "573e065f-0087-44cf-bbf8-e2f203248822_s2",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "Now I have a gacha life YouTube channel but the reason I gave this 4 not 5 is because of the space it takes .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 8,
+    "extracted_features": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "ebe40d6c-2d61-4bab-a22b-b38a72953ce3_s1",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "I can make characters and edit them in the way I want , if u want the old version 1.1.0 which is better then the new one , go to Google and type \" gacha life old version \" , go try gacha club \" if u did n't heard of it \" after u play gacha life , if u hate ads , go to Google again and type \" blokada \" , install it and activate it , hope that my comment helped , gacha apps is good to make stories , films , this app is good to make channels on yt too , thanks for reading ! :D",
+    "output": [
+      "channels"
+    ],
+    "review_number": 9,
+    "extracted_features": [
+      "make characters"
+    ]
+  },
+  {
+    "id": "c616c6b6-aa0d-4e1a-9fc4-5c6ff5f8a511_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "It is so nice😍🦄 and I am planing to make a YouTube channel out of it",
+    "output": [
+      "channel"
+    ],
+    "review_number": 10,
+    "extracted_features": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "47d069c6-00f3-4861-9c11-189fbe3c783e_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "I love it I can make alot of different character and even I can make videos with them for my channel thank you luni for making gacha life",
+    "output": [
+      "channel"
+    ],
+    "review_number": 11,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "e4ddd53f-98e3-43c4-abf1-805731f980f5_s2",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "Bc this is for straters love y'all pls go check out my channel 🍷 LØLLY R3D 🍷",
+    "output": [
+      "channel"
+    ],
+    "review_number": 12,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "3e36f1d4-30dd-4d9e-8f3d-bd6995c167b6_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "Amazing perfecto , people can make money beacuse they can make a video in youtube like glmm / gacha life mini movie its great i once wanna try to ma ke a youtube channel",
+    "output": [
+      "channel"
+    ],
+    "review_number": 13,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "a4fb35a5-2365-453c-a387-bd3faf661e7b_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "Wifi gacha cringe edit my bad YouTube channels so Loads draw 🙄",
+    "output": [
+      "channels"
+    ],
+    "review_number": 14,
+    "extracted_features": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "ba8ac696-747a-48d1-99f8-cc77643bba75_s1",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "This is also good for my YouTube channel !",
+    "output": [
+      "channel"
+    ],
+    "review_number": 15,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "cd77d584-cd9c-4f7d-a071-62b8f67c9416_s2",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "If someone is reading this can you see my YouTube channel ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 16,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "cd77d584-cd9c-4f7d-a071-62b8f67c9416_s3",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "If you wanna then the channel name is IE Twins thanks luni and your teammates .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 17,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "59b44962-8c3e-472a-a9bb-a3f7dd6bfda0_s2",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "💖💓 ( btw if u wana check my yt my channel name is : Gxylie ) enjoy ! 💓💖",
+    "output": [
+      "channel"
+    ],
+    "review_number": 18,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "7b16aca0-7e0a-415e-abff-bae1b7e72ac2_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "I like it it 's good for when you want to draw !( drawing practice ) and you can customize it anyway you want it 's also good for tiktok etc ... ( You Tube ) channels / accounts .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 19,
+    "extracted_features": [
+      "You Tube"
+    ]
+  },
+  {
+    "id": "bea39bf7-2e4f-43b8-8bb5-1b2d0d39fcf2_s0",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "Gacha life is so cool that i can rec and animate and dress my own characters plus if i had a YouTube channel then i can be a mad animater plus if i have many viewers and youx me and youx",
+    "output": [
+      "channel"
+    ],
+    "review_number": 20,
+    "extracted_features": [
+      "characters"
+    ]
+  },
+  {
+    "id": "89b764f7-d7a5-4a1c-90a8-34229144dfb3_s1",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "THIS ONE APP MADE MY YOUTUBE CHANNEL SO MANY SUBSCRIBERS !!!",
+    "output": [
+      "CHANNEL"
+    ],
+    "review_number": 21,
+    "extracted_features": [
+      "CHANNEL"
+    ]
+  },
+  {
+    "id": "08fbb225-b965-432e-a432-470a655b621f_s1",
+    "package_name": "air.com.lunime.gachalife",
+    "app_name": "Gacha Life",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "You can make videos and fake ones if you can't have a YouTube channel !",
+    "output": [
+      "channel"
+    ],
+    "review_number": 22,
+    "extracted_features": [
+      "fake"
+    ]
+  },
+  {
+    "id": "bb61796a-c8de-4d15-8c03-1d3d85f193d2_s2",
+    "package_name": "com.huawei.health",
+    "app_name": "Huawei Health",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "I guess I 'll have to make a smash the watch video to try to recover some of the cost and pick another fitband .",
+    "output": [
+      "watch video"
+    ],
+    "review_number": 23,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "2c82846e-5601-49d5-a0cc-4c43c2677b08_s3",
+    "package_name": "com.huawei.health",
+    "app_name": "Huawei Health",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "Look up a review on youtube by European guy the quantified scientist channel , and it confirms my experience .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 24,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "8dc1e24a-e255-4d3a-8c30-1bbd4518dc83_s5",
+    "package_name": "com.slowlyapp",
+    "app_name": "SLOWLY - Make Global Friends",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "You should delete the account like telegram after a month or a year inactive .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 25,
+    "extracted_features": [
+      "month"
+    ]
+  },
+  {
+    "id": "b028d323-4e59-4cd6-b269-53b611b946ba_s0",
+    "package_name": "running.tracker.gps.map",
+    "app_name": "Running App - GPS Run Tracker",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "This app actually teach me how to be faster when you faster and you get faster and if someone is chasing you like you can just run away as fast as you can of this app and more so he subscribe for the channel and that 's right you see me next week I will run over you men like I 'm like I 'm fast very very fast in real life so race me everyone race me in here so my brother is faster than me but I 'm faster than second place second place my brother is first place so what are you waiting for man so why",
+    "output": [
+      "channel"
+    ],
+    "review_number": 26,
+    "extracted_features": [
+      "running"
+    ]
+  },
+  {
+    "id": "8a6829d3-d3c7-4151-bbf5-5e6a3b3420f2_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Good translator .👍🏻",
+    "output": [
+      "translator"
+    ],
+    "review_number": 27,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "9d9586aa-a259-48b9-8ece-33edd704946f_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Not a camera translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 28,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "52844676-69c0-4fb6-85ab-137845fb62f3_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "I so like this translator because of that safe I put a false car to inside",
+    "output": [
+      "translator"
+    ],
+    "review_number": 29,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "88129808-be0b-4f6e-9e5b-989cad072524_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "The translator is almost perfect and very useful tool in being transparent communication platform but the ads of the package purchasing are forcing me to ignore it .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 30,
+    "extracted_features": [
+      "communication"
+    ]
+  },
+  {
+    "id": "4b420582-d580-4e7d-ace3-2b3d7ea8a5b4_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Very good translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 31,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "e9d36752-70e9-44e5-b802-1a0220f2b336_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Good translator but it should have a simple english translation",
+    "output": [
+      "translator"
+    ],
+    "review_number": 32,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "3d36341c-df93-4229-9d5b-03ac95bf10d5_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Truly excellent translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 33,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "d52c3180-1008-4817-a417-25cfc1bc3f40_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "It 's Best of all , translator app on store .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 34,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "fe9a9912-b82c-44bb-9b43-d8f0a14e3647_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "I have came to love all langueges of the word , simply because of this translator .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 35,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "16e0b400-58bd-4a50-bff7-940a5e7f9759_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "should be linked with every app , where only touch thar key board and use the translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 36,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "1616dc43-f638-4382-bda4-929cc8ae7f94_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Bruh I needed a camera translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 37,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "bc5610eb-93ad-43fe-aa06-c5fd74f63114_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Some times the translator misleads us in translation particularly when its regards geopolitical conflicts and technical terms or idioms .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 38,
+    "extracted_features": [
+      "idioms"
+    ]
+  },
+  {
+    "id": "e4a1e267-0669-44dc-a83a-cd910d4c1bc3_s0",
+    "package_name": "com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator",
+    "app_name": "Translate Language Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "BUSINESS"
+    ],
+    "input": "Fake Google translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 39,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "6ae15efa-bf1f-49f0-a589-991721b5366f_s1",
+    "package_name": "com.olzhas.carparking.multyplayer",
+    "app_name": "Car Parking Multiplayer",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_SIMULATION"
+    ],
+    "input": "YouTube channel dubs J aka jacob .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 40,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "d4b25f34-3319-4369-aa6b-ff829ca68d02_s6",
+    "package_name": "com.olzhas.carparking.multyplayer",
+    "app_name": "Car Parking Multiplayer",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_SIMULATION"
+    ],
+    "input": "Is there any channel where I can contact you ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 41,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "435d805c-f80b-4bf7-82ac-0ff81adb9b4c_s0",
+    "package_name": "org.proninyaroslav.libretorrent",
+    "app_name": "LibreTorrent",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "VIDEO_PLAYERS"
+    ],
+    "input": "Nice and smooth app to download torrents !",
+    "output": [
+      "download torrents"
+    ],
+    "review_number": 42,
+    "extracted_features": [
+      "Nice"
+    ]
+  },
+  {
+    "id": "8c97d7c4-4124-45b0-806e-fbbe390448d9_s0",
+    "package_name": "org.npr.android.news",
+    "app_name": "NPR News",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "NEWS_AND_MAGAZINES"
+    ],
+    "input": "Does this channel know about anything other than Race ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 43,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "487258bd-0663-467f-acaf-a555004bccd4_s2",
+    "package_name": "org.npr.android.news",
+    "app_name": "NPR News",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "NEWS_AND_MAGAZINES"
+    ],
+    "input": "When I check the app when it goes silent , there is no station and channel selected as if I have never selected one .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 44,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "1338c757-8925-492d-bfd8-47ef0271360d_s0",
+    "package_name": "org.npr.android.news",
+    "app_name": "NPR News",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "NEWS_AND_MAGAZINES"
+    ],
+    "input": "I wish this channel would cover more news !",
+    "output": [
+      "channel"
+    ],
+    "review_number": 45,
+    "extracted_features": [
+      "news"
+    ]
+  },
+  {
+    "id": "4e6d89c9-8535-4404-b8d2-ce08668f768a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Plz , add there an option to select the storage you want to use , either internal or external , the way it is in the official telegram ( storage path ... ) .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 46,
+    "extracted_features": [
+      "storage"
+    ]
+  },
+  {
+    "id": "e02d1c74-886b-48c7-9766-0cea9ac0fe51_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I have channels to attend to but now after i deleted the old app i cant get opt",
+    "output": [
+      "channels"
+    ],
+    "review_number": 47,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "04e2dccb-cb94-43cd-bfaf-b01c740a1519_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I can n't receive the confirmation code and does n't open telegram app",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 48,
+    "extracted_features": [
+      "confirmation"
+    ]
+  },
+  {
+    "id": "997c7d71-8636-4825-ab7c-ce085db4bb73_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It 's not good , if it 's logged out the varification code is coming to other mobile wich i am using telegram .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 49,
+    "extracted_features": [
+      "mobile"
+    ]
+  },
+  {
+    "id": "ce5eedf2-dd3c-47ed-8a73-dbc08b124f9e_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "What a very wonderful app , the only difference between telegram and this one is that you can't see your downloads , but they can be saved to your phone , but still , it 's way better than telegram , I recommend you download it , it 's super cool",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 50,
+    "extracted_features": [
+      "downloads"
+    ]
+  },
+  {
+    "id": "804d8787-0110-4b09-bd39-6fbc1e7c3dc2_s2",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This telegram x has echo issue .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 51,
+    "extracted_features": [
+      "message"
+    ]
+  },
+  {
+    "id": "88c3b768-087f-4a29-84cd-980e789cb7f7_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This has been the best ever since i discoverd it after telegram .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 52,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "30d583b3-b780-4615-bc63-4e5a20d98a6f_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "They keep restricting and banning any number I use for telegram x I do n't know why .. and I only use it for business purposes .. I have lost so many people who want to give me business due to the banning of numbers .... that so be considered please",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 53,
+    "extracted_features": [
+      "banning"
+    ]
+  },
+  {
+    "id": "7b1e12b1-77f4-4076-9215-80a742a0705a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Super gram is telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 54,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "c5358b2b-82d4-49e0-94f5-31e3cbf0c098_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "add channel creating to it",
+    "output": [
+      "channel"
+    ],
+    "review_number": 55,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "e169ca84-4d83-4e79-9d4f-f339e84ae7cf_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is banding numbers because millions of people are using it So hate telegram because the are banding phone numbers I lost all my business on telegram Telegram will be good if the sop banding numbers",
+    "output": [
+      "Telegram",
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 56,
+    "extracted_features": [
+      "banding"
+    ]
+  },
+  {
+    "id": "da0b2d94-c406-4e85-898b-cebec9815ba4_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 57,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "aa1e8474-0a16-46a1-b97d-9a9486b45923_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Frustrating service from telegram !",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 58,
+    "extracted_features": [
+      "service"
+    ]
+  },
+  {
+    "id": "17e3f5f4-5e7e-4370-a023-1d94ace8620a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I never expected that telegram x would be this much horrible app .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 59,
+    "extracted_features": [
+      "horrible"
+    ]
+  },
+  {
+    "id": "17e3f5f4-5e7e-4370-a023-1d94ace8620a_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Other unofficial apps and the official telegram app are so much better",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 60,
+    "extracted_features": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "5a67768c-31ec-4646-bb0a-6fdc3fa3fb68_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Better than Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 61,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "d866fe2e-f163-46ee-9516-4856aec7daa9_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Delete my mobile telegram app",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 62,
+    "extracted_features": [
+      "mobile"
+    ]
+  },
+  {
+    "id": "49e405da-1553-43d1-8613-56fa7255beb3_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Why Is telegram deleting accounts",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 63,
+    "extracted_features": [
+      "deleting accounts"
+    ]
+  },
+  {
+    "id": "61220129-7363-466f-8501-40b8440a65eb_s3",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It 's the worst feature of telegram 😥😥😥 😥",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 64,
+    "extracted_features": [
+      "feature"
+    ]
+  },
+  {
+    "id": "399e744c-9682-4969-8e8d-e7d0932e5f9d_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Now tbh i downloaded the x version of telegram just so i could download stuff faster with much smoother interface than the normal telegram but nowadays im facing a problem where i can't download stuff with the same speed as i used to , there 's no problem in my connection as I 've already tested it with other apps ..",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 65,
+    "extracted_features": [
+      "smoother interface"
+    ]
+  },
+  {
+    "id": "5844f493-d598-4536-99f5-ef00c6ab6d5b_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Many of the files supported in normal telegram is showing unsupported file ine telegram x",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 66,
+    "extracted_features": [
+      "files"
+    ]
+  },
+  {
+    "id": "22631ebb-355a-4922-9802-0721ca1322f1_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is Telegram !!!",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 67,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "a0f242ae-c613-417f-9f1e-05372cfa0818_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I 've encountered 2 issues viewing media in chat tabs : - ca n't swipe by tapping sides of screen like in original telegram app , and - quickly flicking photos to one side makes it swipe to the opposite side .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 68,
+    "extracted_features": [
+      "chat"
+    ]
+  },
+  {
+    "id": "38ae254d-cfdc-4ff9-add0-1056286ebd82_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It 's nice but we need a translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 69,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "a31775ff-5f30-4f37-8916-3c74cd001be0_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I wonder when this function will be added to telegram x .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 70,
+    "extracted_features": [
+      "function"
+    ]
+  },
+  {
+    "id": "0d838eed-46e4-4a25-b3f8-2d76df311e6a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Is even better than the real telegram ❤ buh u guys should add some features to it pls i really love the app ✊",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 71,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "9dd3b989-71f5-4114-b6bb-367c63fcd176_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Great telegram x",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 72,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "9b6d5f0f-2f65-4b4e-8a9e-1e6733be725f_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Worst telegram ever 🤮🤮",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 73,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "2b5bcb43-9548-4812-a9e5-12913427ce70_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This is browser telegram .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 74,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "d73969eb-22cf-4112-a940-497429cb1d40_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Bahut achcha telegram this is better telegram x",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 75,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "42dbe6a0-35f6-4f81-8170-039947c77296_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "compare with original telegram , this totally trash",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 76,
+    "extracted_features": [
+      "trash"
+    ]
+  },
+  {
+    "id": "18501628-a77d-4aef-95a3-f96cb48d56d9_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is a good app so I tell u guys to download it thanks",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 77,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "d48125b5-ecd0-4f19-b4ef-e4fa46ba77d4_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "We are very happy for Bergen a successful app like telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 78,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "f75ae9cb-4369-4b1f-b975-da02e53af842_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Why my telegram stop working",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 79,
+    "extracted_features": [
+      "stop"
+    ]
+  },
+  {
+    "id": "e4c5c174-8e86-4747-96f1-9db365303ef8_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I was thinking of switching to telegram x , but after installing it for a day , I think i will stick with the original version",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 80,
+    "extracted_features": [
+      "stick with"
+    ]
+  },
+  {
+    "id": "6b39d62a-5995-4aa4-bc68-60fbeed2d1e2_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is good to use in terms of communication .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 81,
+    "extracted_features": [
+      "communication"
+    ]
+  },
+  {
+    "id": "74ae8e9e-fb26-4064-b0b6-dcebfa6f4732_s2",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Switching to the full Telegram ...",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 82,
+    "extracted_features": [
+      "Switching"
+    ]
+  },
+  {
+    "id": "26bf8086-fa90-424a-9095-934c0797ae24_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram and telegram x wonderful app best features best look♥ ️",
+    "output": [
+      "Telegram",
+      "telegram"
+    ],
+    "review_number": 83,
+    "extracted_features": [
+      "best features"
+    ]
+  },
+  {
+    "id": "2d43b33c-7d6d-4b1a-b613-9e119b062d1c_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Nice Page telegram x",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 84,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "dc844338-2e1d-47c9-8f19-e536ce322ee3_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 85,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "f0fb7a19-1749-4729-a785-579c4f6a07b9_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram but better .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 86,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "76519517-481c-449e-b7b9-d78bc61e304c_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram wow app",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 87,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "e4f829e4-1eb0-4096-bf1e-2787b69828a5_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Please update more , this telegram is great",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 88,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "58ec6aa1-a08c-4145-bd72-cf0c00cb1287_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "How to get hak telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 89,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "120989f3-52cf-44f3-bd52-e245e9bc4e93_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Much better upgrade than the regular telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 90,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "73e5f54e-6774-4d3b-8d66-7d9f712d86f9_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "That telegram is good",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 91,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "de142934-b607-4444-b36d-210e39ef2703_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Yes po tenk u sa telegram my five star ka",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 92,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "71125359-eef1-4849-812a-834d09ec3237_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I love telegram because it help alot",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 93,
+    "extracted_features": [
+      "help"
+    ]
+  },
+  {
+    "id": "4de2eca0-54fb-4e51-912a-179f74f5376e_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Please update it with the latest version of telegram ..😒",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 94,
+    "extracted_features": [
+      "latest version"
+    ]
+  },
+  {
+    "id": "bb07f77d-28ea-4491-b92e-474af8c6bf7c_s2",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "But in the new update it only shows the Bold text like telegram .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 95,
+    "extracted_features": [
+      "text"
+    ]
+  },
+  {
+    "id": "089ac275-277b-4147-94bb-75fcfebe55a7_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Why does n't my telegram x sign in I 've tried it since 3 days back even I try to switch on vpn but it fails",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 96,
+    "extracted_features": [
+      "sign in"
+    ]
+  },
+  {
+    "id": "f9c13605-4067-4d85-bce8-54fdc9bb450c_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "If you need to only chat without having unnecessary features then use Telegram X . The animations are smooth😘 .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 97,
+    "extracted_features": [
+      "animations"
+    ]
+  },
+  {
+    "id": "46b20f90-1eda-4f88-bc87-62f1fd26c6dc_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Ever , it 's better than the original telegram app .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 98,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "a15714ef-c3a8-4797-84d0-400758687373_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 99,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "e8dc9ba5-12ac-4be6-928d-1b5096d9a78c_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Very excellent app telegram waste download speed very slow but telegram x high speed downloading 2.90 mb per second speed telegram x but telegram app only 100 kb to 120 kb",
+    "output": [
+      "telegram",
+      "telegram",
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 100,
+    "extracted_features": [
+      "high speed"
+    ]
+  },
+  {
+    "id": "145fef5d-ac73-47de-b309-130d650feca2_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "edited : why should bypass through telegram official to login this app ?",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 101,
+    "extracted_features": [
+      "login"
+    ]
+  },
+  {
+    "id": "f2031475-fe5f-4770-b25a-131c0b0869ec_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "And can make a channel on them but the copyright claim are coming very fast in the app",
+    "output": [
+      "channel"
+    ],
+    "review_number": 102,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "3ab7996f-be8a-439d-87c7-092fc8fb3488_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I love using telegram x ❤️❤️❤️❤️💯 💯",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 103,
+    "extracted_features": [
+      "messaging"
+    ]
+  },
+  {
+    "id": "a37d2956-b990-4b05-bd59-cbd0e3b098e8_s3",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "THERE ISN'T PROBLEM IN REGULAR TELEGRAM .",
+    "output": [
+      "TELEGRAM"
+    ],
+    "review_number": 104,
+    "extracted_features": [
+      "REGULAR"
+    ]
+  },
+  {
+    "id": "5e8d98a8-526e-45f0-8190-5f1e4b0acd0a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Hello , Telegram X is much better than the original version in terms of speed and floating , but unfortunately its update is slow and none of the new features of the original Telegram have been added to it , if it is updated on time and in customization .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 105,
+    "extracted_features": [
+      "floating"
+    ]
+  },
+  {
+    "id": "8d24fa44-cfa2-4b8e-856b-0a8e22e47e83_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I love telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 106,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "115d87db-c4cb-482b-bbde-ff8a9885f873_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Download are much faster than original telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 107,
+    "extracted_features": [
+      "faster"
+    ]
+  },
+  {
+    "id": "cdc7590e-5eed-4675-9959-90180b29120b_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Good job anitha putty for telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 108,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "d35bc583-23df-44c8-bdb7-94f2f5961c92_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Anything i need i search from telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 109,
+    "extracted_features": [
+      "search"
+    ]
+  },
+  {
+    "id": "633a29fe-e7b0-4bc3-abd6-ceaf3176ad4d_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My name is Joseph and I request you humbly to let my number continue working and accessing telegram because I use it to study and last night I missed lessons because of that problem .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 110,
+    "extracted_features": [
+      "lessons"
+    ]
+  },
+  {
+    "id": "633a29fe-e7b0-4bc3-abd6-ceaf3176ad4d_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My number was banned from accessing telegram and I do n't know why but I 'm begging to open it .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 111,
+    "extracted_features": [
+      "begging"
+    ]
+  },
+  {
+    "id": "293a6a78-deb4-4e01-a49a-07be27f57971_s2",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It still does n't have some telegram futures that has been released years ago .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 112,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "6e0a941c-fc60-46a1-8cda-4dbd5cfdf79d_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "If my telegram is not upgraded it will block me so let 's just say I do n't think this is fare so I need telegram that does n't need any more updates .!!!!",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 113,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "be96971c-490b-4cde-8e82-ad1ad3132ec0_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "The reason I give only four stars is that you should add 10s skip feature while watching videos .",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 114,
+    "extracted_features": [
+      "skip"
+    ]
+  },
+  {
+    "id": "877ad906-11e1-42ea-af1a-56219bcd72d8_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Good telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 115,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "9dddf4ec-91d6-4671-8984-6d473bdd1334_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Can hardly watch videos anymore .",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 116,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "f7619841-341a-478b-9029-a668552f159f_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Dear Telegram please get storage path change option back in again thanks .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 117,
+    "extracted_features": [
+      "storage"
+    ]
+  },
+  {
+    "id": "58e67796-1bea-470a-93ed-6d6a5b400b5b_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Hi Please update App As Telegram For Above 2gb File Or Add Feature forward file with removed forward sign Like Bgram Option",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 118,
+    "extracted_features": [
+      "forward"
+    ]
+  },
+  {
+    "id": "e8870f7e-f381-4b0e-9b9e-410d1e285c49_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It 's 100 % better than original telegram app",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 119,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "54046546-ce71-4d71-ae2c-4e861dd22a22_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 120,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "9b527e9b-1c5a-4f4f-bd32-654370bdad09_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "The best telegram app",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 121,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "e1a22cd1-3cf4-4369-b679-7a0e271f81ed_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "How can I see discussion group assigned to a channel ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 122,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "3cf7f14e-01d0-4b20-9ccd-6aeba5b312c6_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "i have not download it yet but i look forward to expriance this telegram batter than the other's",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 123,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "a4d558ad-d6a7-4a15-9dd4-2b6a3e61cc79_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This app will look more pretty if it has translator , please you guys should fixed it",
+    "output": [
+      "translator"
+    ],
+    "review_number": 124,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "699e624a-9620-4f32-8a4b-3cf535ca87e8_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "good than telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 125,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "b6b2b968-f694-41b6-b4de-d802509b346e_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This is a wonderful journey with telegram x thanks telegram",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 126,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "46391414-8239-44cd-9ecd-67b40b87170d_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "From the last 30 days I am facing some serious problem with telegram , not even a single document is downloading , I have tried many ways to fix this problem but no progress .. anyone plz tell me how to fix this",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 127,
+    "extracted_features": [
+      "document"
+    ]
+  },
+  {
+    "id": "c36b2f24-7d28-4348-aa03-654b05db8cfd_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This is by far the best app to use for Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 128,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "25330c5a-4dee-4995-b45c-60aa5602a9a1_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Best telegram application",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 129,
+    "extracted_features": [
+      "application"
+    ]
+  },
+  {
+    "id": "9575f968-2aee-4346-bd2d-47322a457a15_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Update telegram x into 1.5x,2 x voice speed",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 130,
+    "extracted_features": [
+      "voice"
+    ]
+  },
+  {
+    "id": "475b6ed9-33a7-453d-acde-da1b0743dc9a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I can't install telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 131,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "8132250e-1d2d-4c36-b4c6-724902bb3777_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Best ui and best telegram ever",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 132,
+    "extracted_features": [
+      "ui"
+    ]
+  },
+  {
+    "id": "2c1feafc-5d00-44d5-911c-089c15ea798d_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Ab mera last account nahi aa raha pls help and provide my last telegram account pls",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 133,
+    "extracted_features": [
+      "account"
+    ]
+  },
+  {
+    "id": "fdbfafd0-d55d-49d3-8885-99922b50d823_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Super app telegram x",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 134,
+    "extracted_features": [
+      "Super app"
+    ]
+  },
+  {
+    "id": "64b008cf-135e-4def-8e8d-e1906c94b9ec_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "First impressions : Downloads are much much faster than in the original Telegram .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 135,
+    "extracted_features": [
+      "Downloads"
+    ]
+  },
+  {
+    "id": "f5f0ae75-519f-41dd-a4b8-537cc3da39fa_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Mozeezo said , telegram is Lovely cool",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 136,
+    "extracted_features": [
+      "Lovely"
+    ]
+  },
+  {
+    "id": "1bac2dcc-7e41-4666-ba4e-dce84cd09733_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is very good for chatting",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 137,
+    "extracted_features": [
+      "chatting"
+    ]
+  },
+  {
+    "id": "497286d5-a1d6-4ede-895d-cf3efef2e33f_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I love telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 138,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "e8d61f82-3322-40c5-99e6-98baeee3f8b3_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Great app , thanks for telegram team 👍👍 👍",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 139,
+    "extracted_features": [
+      "team"
+    ]
+  },
+  {
+    "id": "3347b201-c6c9-4ce2-810d-da2870ceb0a4_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "You gave me invalid code to operate Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 140,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "a350c7f2-f390-4881-a50e-17fbb6bdba24_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Doing video Calling problem 😌",
+    "output": [
+      "video Calling"
+    ],
+    "review_number": 141,
+    "extracted_features": [
+      "Calling"
+    ]
+  },
+  {
+    "id": "045c53b1-57d8-4434-b41a-ce4002040d6d_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is awesome .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 142,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "ef75570b-c5ee-4fda-9a88-4db70b3ae53e_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My account got banned when I logged in to telegram x .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 143,
+    "extracted_features": [
+      "logged in"
+    ]
+  },
+  {
+    "id": "c9c9562c-330f-49e9-87d6-8a2f73048dd1_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "We can dwnload vry easily anything as compared to the app telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 144,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "e04185f2-3b45-4dc9-ac75-5d0bb901491e_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Lol .. there 's nothing I love more than consistency .. in the other version of telegram , it felt smooth on the home screen , then once you open your chat to scroll through it , it lags sooo hard that it becomes unbearable to my eyes , dropping as low as 30 fps when I 'm scrolling which left me confused !!",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 145,
+    "extracted_features": [
+      "home screen"
+    ]
+  },
+  {
+    "id": "c39dbf0c-a34b-4f24-9f9e-a53b68758e89_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram X 0.24.9.1530 -arm64-v8a OnePlus 9 /9 Pro /10 Pro",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 146,
+    "extracted_features": [
+      "OnePlus"
+    ]
+  },
+  {
+    "id": "480ca936-e945-4ba1-9969-1cb9ed6db692_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I can't create group and channel",
+    "output": [
+      "channel"
+    ],
+    "review_number": 147,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "a0fa0508-2940-4ad0-80b5-f978d9251690_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is a verygood",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 148,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "a21ee2b6-bd0f-4ff3-a222-5c41c07f9c77_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My account either lost or deleted by telegram ever since I log in to your app .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 149,
+    "extracted_features": [
+      "account"
+    ]
+  },
+  {
+    "id": "588ba495-df1a-4ab8-86fa-bd67ac6118d9_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "THE only thing i'm going to say is that \" it 's better than other telegram apps \" 100 %",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 150,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "b8134167-733b-4306-8393-9f9c6f08216e_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I hate telegram it 's keep making my account jumping please please make sure you guys do something about this",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 151,
+    "extracted_features": [
+      "account"
+    ]
+  },
+  {
+    "id": "9ed596e4-4e22-4b5b-985c-acab9371e41b_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is a good communications divice",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 152,
+    "extracted_features": [
+      "communications"
+    ]
+  },
+  {
+    "id": "901c48c9-ed87-4c1b-a1f1-3e4b1c6b0447_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is good and trusted",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 153,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "48c4c2fa-208d-4b81-add9-828f2a59fb62_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 154,
+    "extracted_features": [
+      "Telegram"
+    ]
+  },
+  {
+    "id": "7025159c-b0ac-43d1-9801-3cadbbff6a97_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "1 - Need to send Videos on groups or channels in a full HD quality this property not found in this edition and the previous editions",
+    "output": [
+      "channels"
+    ],
+    "review_number": 155,
+    "extracted_features": [
+      "groups"
+    ]
+  },
+  {
+    "id": "6ad2c74e-0002-4932-8ac7-02b1c0d3bf40_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "pls bring a lite version of telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 156,
+    "extracted_features": [
+      "lite"
+    ]
+  },
+  {
+    "id": "ee508665-8d7e-4965-b429-39a8c2bf9906_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I suggest that you can open this telegram x",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 157,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "338ccc64-4a86-4674-9409-1529d822146c_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 158,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "73bdf832-1cbb-4d8b-a772-bdaa7d575b21_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Because of my items that I have downloaded some of has experienced something new why because when took off my channel or room and domain you did n't have same experience before Samsung just heard about because I share between them and they noticed something share same dreams for there clients ok !",
+    "output": [
+      "channel"
+    ],
+    "review_number": 159,
+    "extracted_features": [
+      "share"
+    ]
+  },
+  {
+    "id": "4879b28f-8414-4cfa-9c5f-1a143f32de08_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Why is n't there an option to select and download multiple files to be saved in device at once , its present in the original Telegram but absent over here",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 160,
+    "extracted_features": [
+      "download"
+    ]
+  },
+  {
+    "id": "cf5cd57c-5c6c-4a97-82c8-c14cedd3615e_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It been working so good , but the less I could say , telegram x should improve the adding of member from a certain group just like telegraph .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 161,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "006df486-9922-4a04-af98-aca026f594c9_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "ok telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 162,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "598bc05d-5839-45eb-9f4c-04b6a1174335_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My telegram x is now stopping by itself , I do n't know the reason",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 163,
+    "extracted_features": [
+      "stopping"
+    ]
+  },
+  {
+    "id": "28256fa3-63cf-4b10-8a45-fdb4c4b3e424_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I am not happy because this version is very bad and my chanel in telegram limited , no copy , no forward posts for other and friends ...",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 164,
+    "extracted_features": [
+      "forward"
+    ]
+  },
+  {
+    "id": "cc21dc5f-c76c-4fb0-bed6-fd853792ffb7_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I like it because it 's size is smaller than telegram app but only important feature missing is the video cropping option just like telegram .",
+    "output": [
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 165,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "79137a4a-7fda-4a9c-b234-99a47a28b4d1_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "telegram it 's a nice place you can work with",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 166,
+    "extracted_features": [
+      "work"
+    ]
+  },
+  {
+    "id": "5292e978-b15e-4ee1-91ef-ed7fd59f6d3a_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It downloads images and videos very fast ...... it is better than telegram itself ........",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 167,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "f86b7d4f-4e6b-427f-b3db-32827b341b2a_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My telegram is joining wet my gmail i need to remove it",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 168,
+    "extracted_features": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "f311be73-b752-4a15-a7f1-0c3d898bc7dc_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Only telegram is rough 🤮",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 169,
+    "extracted_features": [
+      "Only"
+    ]
+  },
+  {
+    "id": "9a895a81-1b46-4493-abd4-80c40b3cadd6_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "I enjoy telegram x very much .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 170,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "1ef41c8e-4df1-45ca-82cd-94bb70943bb5_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Worst app ever it does n't connect to anything I try to do every method but it 's just miserable I do n't know why this is happening but the normal telegram is working way more faster and better than this 2 hours into using this and it's a hell",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 171,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "0a1eb6d2-663f-49ad-8013-39c5a41aec39_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "But I recommend telegram is better .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 172,
+    "extracted_features": [
+      "recommend"
+    ]
+  },
+  {
+    "id": "484fcb6f-bb6e-456d-ac0f-36f713075288_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram x is the best app compared even to the original one",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 173,
+    "extracted_features": [
+      "compared"
+    ]
+  },
+  {
+    "id": "d5a2a4f5-c043-4c2d-b042-b6f82c9e02e4_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "It is best of teh rest of telegram apps",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 174,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "163ed5d5-30df-477b-aba0-0a3ac4bd90ea_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Spme what goog it seem to ne more like twitter , because some things need too be shared , and wont share , I thought this channel would be more white hat insted of black hats , and dont be upset thier are a few good channels and vodeos , Im jusst being honest",
+    "output": [
+      "channel",
+      "channels"
+    ],
+    "review_number": 175,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "671ff827-efe9-4c2b-86b9-6a890612a4c1_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This app is best from another telegram apps .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 176,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "eba45626-86f9-436c-b8aa-4566bebcb27b_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Using telegram no net speed",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 177,
+    "extracted_features": [
+      "no net"
+    ]
+  },
+  {
+    "id": "fcb75d91-63e1-4b63-8a0d-bc389ca0ae27_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "The best telegram app for me ...",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 178,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "09fb594f-41b8-4acb-ad37-6a826d332fc1_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "My telegram x keep pushing me out , if I try to open the app .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 179,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "be60442b-7cd7-4016-b166-55350b0da525_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Pls I deleted my telegram a week ago but I can't download it again someone should fix this",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 180,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "155c037f-3c48-44be-a3d5-a8e1bbb78f8b_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Bad condition telegram",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 181,
+    "extracted_features": [
+      "Bad"
+    ]
+  },
+  {
+    "id": "f3eedf0f-8b6d-44d3-9b0d-8ecf349fdcef_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "always show telegram error 😒",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 182,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "c8e7a895-9632-47f8-951a-3e58907e64d3_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Lot off bugs in telegram X",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 183,
+    "extracted_features": [
+      "bugs"
+    ]
+  },
+  {
+    "id": "20282e40-16f0-4088-a20d-4cd4ad382661_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Please l have been using telegram X from 2017 upto now but the recent update crushes alot please the recent update is the fakest and deserves 0 stars please work on version 0.24.9.",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 184,
+    "extracted_features": [
+      "recent update"
+    ]
+  },
+  {
+    "id": "c4792174-21ef-460e-a583-193f90c6cdf3_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Best telegram x",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 185,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "90e88ad3-cccd-4d5d-8370-25b0011d76d3_s3",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "The second and most important one is it does n't support invite links which is very important for those of us that has channels .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 186,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "b15b21d0-edb7-42b9-826a-8d91e5cd948d_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Thanks team of telegram x 🙏",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 187,
+    "extracted_features": [
+      "team"
+    ]
+  },
+  {
+    "id": "6efeecfb-b939-49b1-9063-b6b3a44443f7_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram is a good chatting platform 👍 I love it and their GIFs is very beautiful and funny 😃😃😘😘 😘",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 188,
+    "extracted_features": [
+      "GIFs"
+    ]
+  },
+  {
+    "id": "520d6818-87b3-4e6e-8890-a0088be6b117_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "App have a nice UI but there is lot of features in original app that missed here , so with all respect i prefer to use orginal telegram .",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 189,
+    "extracted_features": [
+      "UI"
+    ]
+  },
+  {
+    "id": "eb9a6560-df14-4092-9f32-09a01b678bc5_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "it more better than Orginal telegram and faster🤝 🏻",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 190,
+    "extracted_features": [
+      "faster"
+    ]
+  },
+  {
+    "id": "082ca61c-ddde-4b96-b3ca-e2b6399273c7_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Nice update but orginal telegram update is pending in this app",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 191,
+    "extracted_features": [
+      "Nice update"
+    ]
+  },
+  {
+    "id": "1c25becb-5aa0-41ac-9086-871923bbb99c_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Such a bad experience Someone false report against me and telegram without any prove limited my account",
+    "output": [
+      "telegram"
+    ],
+    "review_number": 192,
+    "extracted_features": [
+      "report"
+    ]
+  },
+  {
+    "id": "ed96c2dc-9a2f-4e6b-b09b-cae4e17f2c30_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegrams x is not giving me what I need",
+    "output": [
+      "Telegrams"
+    ],
+    "review_number": 193,
+    "extracted_features": [
+      "Telegrams"
+    ]
+  },
+  {
+    "id": "edd5bcf1-b621-4f8c-8c9d-c4a9a178dbf4_s3",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Now we can expect new telegram apps based on telegram X with all those desired options like apps based on main telegram app .",
+    "output": [
+      "telegram",
+      "telegram",
+      "telegram"
+    ],
+    "review_number": 194,
+    "extracted_features": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "c7e52a15-bf36-4ba4-8d41-350caeed34eb_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Translator required , please include in the app , thanks",
+    "output": [
+      "Translator"
+    ],
+    "review_number": 195,
+    "extracted_features": [
+      "Translator"
+    ]
+  },
+  {
+    "id": "d59dd984-e461-4e0d-8f25-6d6e46598022_s0",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Telegram x is very good and very easy to use",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 196,
+    "extracted_features": [
+      "easy to use"
+    ]
+  },
+  {
+    "id": "326401f5-9f10-43cc-9bd7-9456db339338_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Need to update for the latest version like original Telegram .",
+    "output": [
+      "Telegram"
+    ],
+    "review_number": 197,
+    "extracted_features": [
+      "latest version"
+    ]
+  },
+  {
+    "id": "8c20f230-55e5-4f74-a704-65f900b231c1_s1",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "No social media is better than telegram z but telegram x does n't have that live streaming thing Other telegrams like the original one has it .",
+    "output": [
+      "telegram",
+      "telegram",
+      "telegrams"
+    ],
+    "review_number": 198,
+    "extracted_features": [
+      "streaming"
+    ]
+  },
+  {
+    "id": "e21c4e74-46cf-4a7b-9b8c-5db01693e05a_s2",
+    "package_name": "org.thunderdog.challegram",
+    "app_name": "Telegram X",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Open or close a channel , panel is weirdly half on / half off the screen .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 199,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "037fabe8-413b-4348-977b-ea71283aea61_s0",
+    "package_name": "com.samsung.android.app.notes",
+    "app_name": "Samsung Notes",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "An OCR implementation would make this app perfect .",
+    "output": [
+      "OCR"
+    ],
+    "review_number": 200,
+    "extracted_features": [
+      "OCR"
+    ]
+  },
+  {
+    "id": "63312cd4-d7eb-46bd-b386-b77b88c8f779_s0",
+    "package_name": "com.samsung.android.app.notes",
+    "app_name": "Samsung Notes",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Very good app to use , I use it to write scripts for groupchat videos for my YouTube channel .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 201,
+    "extracted_features": [
+      "groupchat"
+    ]
+  },
+  {
+    "id": "d38be630-bab8-477d-8864-1b5b2a33c146_s1",
+    "package_name": "com.wbtv.android.weather",
+    "app_name": "WBTV First Alert Weather",
+    "app_category": [
+      "Weather"
+    ],
+    "google_play_category": [
+      "WEATHER"
+    ],
+    "input": "Wbtv channel 3 is the BEST !!!",
+    "output": [
+      "channel"
+    ],
+    "review_number": 202,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "1ae32942-1caf-4a02-8bd4-baa753a46514_s0",
+    "package_name": "com.wbtv.android.weather",
+    "app_name": "WBTV First Alert Weather",
+    "app_category": [
+      "Weather"
+    ],
+    "google_play_category": [
+      "WEATHER"
+    ],
+    "input": "I love channel 3 !!!",
+    "output": [
+      "channel"
+    ],
+    "review_number": 203,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "b7ba3105-aab6-4cdb-b22f-1c674323d543_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "Mera channel name MR MD BOSS",
+    "output": [
+      "channel"
+    ],
+    "review_number": 204,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "92f1e805-9587-489e-9b0d-47cc751c321b_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "You tube channel pc gamer sapot",
+    "output": [
+      "channel"
+    ],
+    "review_number": 205,
+    "extracted_features": [
+      "You tube"
+    ]
+  },
+  {
+    "id": "53b6f027-67e5-4963-8ae0-683b1190b3b4_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "Subscriber my channel my channel name is VIP ANNA Please do subscriber ok",
+    "output": [
+      "channel",
+      "channel"
+    ],
+    "review_number": 206,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "67b9cae3-2594-485b-b908-07e7d853b25f_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "Subscribe my YouTube channel ..",
+    "output": [
+      "channel"
+    ],
+    "review_number": 207,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "78ba7cda-b654-4985-893b-ec304e19aca6_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "Subscribe my channel please Mahakal Gamer 01",
+    "output": [
+      "channel"
+    ],
+    "review_number": 208,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "7099e702-5cf1-4f4b-b27d-f85370b1b212_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "Please subscribe & like my channel ( goldmines 295 )",
+    "output": [
+      "channel"
+    ],
+    "review_number": 209,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "f96ddb4f-3169-41ba-9a03-cff35836bcdd_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "My yt channel ..",
+    "output": [
+      "channel"
+    ],
+    "review_number": 210,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "8f3be40b-5449-43e8-bf1f-d2338e8d0d6a_s0",
+    "package_name": "com.skgames.trafficrider",
+    "app_name": "Traffic Rider",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "It 's my channel name Priyans 294 Gaming please Support me 🙏🙏🙏 🙏",
+    "output": [
+      "channel"
+    ],
+    "review_number": 211,
+    "extracted_features": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "2be7fbe3-f660-4d91-8986-dd37b58daca6_s0",
+    "package_name": "de.wetteronline.wetterapp",
+    "app_name": "Weather & Radar - Storm radar",
+    "app_category": [
+      "Weather",
+      "Air quality"
+    ],
+    "google_play_category": [
+      "WEATHER"
+    ],
+    "input": "I enjoy this channel , it is very informative and quite accurate .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 212,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "05d8f1ae-c0b7-4c2f-a94e-ba048efa7414_s1",
+    "package_name": "de.wetteronline.wetterapp",
+    "app_name": "Weather & Radar - Storm radar",
+    "app_category": [
+      "Weather",
+      "Air quality"
+    ],
+    "google_play_category": [
+      "WEATHER"
+    ],
+    "input": "I like it much better than the weather channel app",
+    "output": [
+      "channel"
+    ],
+    "review_number": 213,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "7039441b-cc02-4f70-81fc-129bff185df1_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Vary bad aap Automatic unpin my channels from my pinned channel lists 🤫🤫",
+    "output": [
+      "channels",
+      "channel"
+    ],
+    "review_number": 214,
+    "extracted_features": [
+      "pinned"
+    ]
+  },
+  {
+    "id": "56d0362a-aaad-42b9-bc3e-2165dc086b9f_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "you removed recent events on channel .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 215,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "353368bc-f286-4300-90d0-a4795bbd922b_s3",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I start the download from a channel , swipe back to the main screen and go to the channel again and the file is still downloading , but when I do swipe back and go to the channel again , it stops downloading .",
+    "output": [
+      "channel",
+      "channel",
+      "channel"
+    ],
+    "review_number": 216,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "bf8904e8-1894-4118-ae5b-ca16611aa170_s2",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I have a channel and I changed it from a public to a private channel by accident .",
+    "output": [
+      "channel",
+      "channel"
+    ],
+    "review_number": 217,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "bf8904e8-1894-4118-ae5b-ca16611aa170_s3",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Now I can't reuse my previous username after changing it back to a public channel .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 218,
+    "extracted_features": [
+      "public"
+    ]
+  },
+  {
+    "id": "871768c2-e90d-4978-b5c6-0214f3bde9ac_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Bug Alert Not. Create a new channel",
+    "output": [
+      "channel"
+    ],
+    "review_number": 219,
+    "extracted_features": [
+      "Alert"
+    ]
+  },
+  {
+    "id": "33044e14-1959-4d5b-b709-caa0fc5f9e91_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "This app deserve 5 star and I really love and prefer it than any other social platform cause they gave users full privilege to operate the app easily ( but ) please provide us a feature that will separate channels , groups and normal chat it would be more fun and easy to operate ( then u shall earn my 5 Star )",
+    "output": [
+      "channels"
+    ],
+    "review_number": 220,
+    "extracted_features": [
+      "groups"
+    ]
+  },
+  {
+    "id": "77627932-adc8-434b-a255-f0130828bc0d_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "You have stolen the ID of the channels .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 221,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "fb040b0e-5fff-47b3-aa6e-2b0cf7eb8338_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "This app is very good for downloading shows but of recently most of the channel I am in have been deleting all the shows or movie they have in it cause of one law suit or the other",
+    "output": [
+      "channel"
+    ],
+    "review_number": 222,
+    "extracted_features": [
+      "movie"
+    ]
+  },
+  {
+    "id": "3504c155-81ef-4a1b-9b41-7d8677273e44_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "For over 4yrs , I 've been using this app for channels update ..",
+    "output": [
+      "channels"
+    ],
+    "review_number": 223,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "f9b01cbe-a4d0-4de8-9db1-5709b106fa95_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "This is a great app for learning and communicating and making a learning place for for other and we can find any channels for learning thanks for making this app . 🙂",
+    "output": [
+      "channels"
+    ],
+    "review_number": 224,
+    "extracted_features": [
+      "communicating"
+    ]
+  },
+  {
+    "id": "9b22a9fa-6f6b-4fc6-888a-19ca5ff48e76_s2",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Kindly fix your sms channel",
+    "output": [
+      "channel"
+    ],
+    "review_number": 225,
+    "extracted_features": [
+      "sms"
+    ]
+  },
+  {
+    "id": "9e1b5fca-ef05-4822-88a3-8f83bd272579_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Fantastic app , especially channels to download movies .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 226,
+    "extracted_features": [
+      "download"
+    ]
+  },
+  {
+    "id": "364b686d-a15f-4058-83da-92a068184037_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "where I found my downloads . there is no delete option for download file indidually in channel please update this delete option to easy to delete .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 227,
+    "extracted_features": [
+      "downloads"
+    ]
+  },
+  {
+    "id": "e20e89ef-34c0-4de2-a44e-3c05f1a6a59b_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I maked a channel and i used a idi but after the update i dont have my idi .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 228,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "692f0d7e-4ff0-43ec-ac42-f61ec1cc07c9_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "The Google play version is censoring certain channels .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 229,
+    "extracted_features": [
+      "certain channels"
+    ]
+  },
+  {
+    "id": "7f4d5071-492d-4acf-ad44-01951e24c3da_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Sometimes loads chats and channels for too long",
+    "output": [
+      "channels"
+    ],
+    "review_number": 230,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "cf7ac6cc-dadd-44cf-9761-ac93f956687e_s2",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "It fills all my free 25 gb of data within few days since have over 30 channel subscriptions with around 2000 posts per day .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 231,
+    "extracted_features": [
+      "channel subscriptions"
+    ]
+  },
+  {
+    "id": "2bab0a01-23b5-4318-b864-8c2cb4b3b6c0_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Good work bro plz my YouTube channel subscribe",
+    "output": [
+      "channel"
+    ],
+    "review_number": 232,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "57fa786b-878f-4c11-aa80-0415810f3d31_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Please support my channel please",
+    "output": [
+      "channel"
+    ],
+    "review_number": 233,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "57fa786b-878f-4c11-aa80-0415810f3d31_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "It 's my request please support my channel all one tec Channel name Please sir support my channel all one tec",
+    "output": [
+      "channel",
+      "channel"
+    ],
+    "review_number": 234,
+    "extracted_features": [
+      "Channel"
+    ]
+  },
+  {
+    "id": "4b40d2d5-b278-4ae9-9a3a-571368d44edb_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "very bad experience , without any reason I lost my 2000 + channel member . 3 year Hard work I complet so many students and education material .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 235,
+    "extracted_features": [
+      "material"
+    ]
+  },
+  {
+    "id": "caa6b00f-89d1-4491-9a74-41ba45e6269e_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Unfortunately , even though I am only a member of 6 channels and groups , I still see an error of 500 groups and I can no longer become a member of any group or channel .",
+    "output": [
+      "channels",
+      "channel"
+    ],
+    "review_number": 236,
+    "extracted_features": [
+      "groups"
+    ]
+  },
+  {
+    "id": "63b20c07-cf54-43d7-86ca-c3aa44e37431_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "After the last update , it stopped loading the list of channels I 'm following .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 237,
+    "extracted_features": [
+      "list"
+    ]
+  },
+  {
+    "id": "63b20c07-cf54-43d7-86ca-c3aa44e37431_s2",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I have to type the title of the channel in the search bar to open it every time",
+    "output": [
+      "channel"
+    ],
+    "review_number": 238,
+    "extracted_features": [
+      "search"
+    ]
+  },
+  {
+    "id": "77dac737-bd96-4386-bb85-fa17e9b3021f_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "There a big problem please fix it on next update admin of our channel can remove our subscribers it is the problem please fix it admin can't remove subscribers without the permission of owner",
+    "output": [
+      "channel"
+    ],
+    "review_number": 239,
+    "extracted_features": [
+      "subscribers"
+    ]
+  },
+  {
+    "id": "8de80926-38eb-4eed-905f-99d19580ffdd_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Whats the meaning of limiting channel links .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 240,
+    "extracted_features": [
+      "channel links"
+    ]
+  },
+  {
+    "id": "f420ac99-4b80-4bff-a4b0-bf2ca21a7efd_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "For awhile I cant join any channel and groups because of this type of error ( you are a member of 500 groups and channels ) while im not member of this number of groups and channels , my group an channels are less than 30 !",
+    "output": [
+      "channel",
+      "channels",
+      "channels",
+      "channels"
+    ],
+    "review_number": 241,
+    "extracted_features": [
+      "groups",
+      "channels"
+    ]
+  },
+  {
+    "id": "ee31f617-7622-46a0-b344-8e4ce38b8f68_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "channel suggestion option is Missing",
+    "output": [
+      "channel"
+    ],
+    "review_number": 242,
+    "extracted_features": [
+      "suggestion"
+    ]
+  },
+  {
+    "id": "e1f50541-ecb4-47c0-a0f0-1ba0b81c8b9d_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Please delete all +18 Channels",
+    "output": [
+      "Channels"
+    ],
+    "review_number": 243,
+    "extracted_features": [
+      "Channels"
+    ]
+  },
+  {
+    "id": "fbee0c7d-8152-42ee-9a54-68f3ef7335e6_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "My application is stuck and showing only loading my chat and channel not visible",
+    "output": [
+      "channel"
+    ],
+    "review_number": 244,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "2aee2484-3c39-49a2-9064-232252fcce13_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Cannot delete channel or group that spread nudes and pornography ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 245,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "2430ccce-68c4-43e1-beed-20f900dd610e_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I 've been using this app for 2 years , why is my channel banned ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 246,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "2430ccce-68c4-43e1-beed-20f900dd610e_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "can my username that was listed on the channel then you banned it be returned ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 247,
+    "extracted_features": [
+      "channel"
+    ]
+  },
+  {
+    "id": "8daede87-8c4a-4d27-be20-cf30e08174a3_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I got a problem I did n't join 500 channels but I always have this limit all the time , if I help me it would be great 😃.",
+    "output": [
+      "channels"
+    ],
+    "review_number": 248,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "121e9c3e-8d3c-4410-aad6-15eeb57835e0_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "pleas add nobody option in group and channel invitation .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 249,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "b8c5137f-f31d-413b-b3d3-c8f4e9a6a6af_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I have a problem with joining the groups and channels .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 250,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "b8c5137f-f31d-413b-b3d3-c8f4e9a6a6af_s2",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I can no longer join any channel and group and it is limited because of the big number of channels , while the number of channels and groups that I am a member of , does not even reach 200 .",
+    "output": [
+      "channel",
+      "channels",
+      "channels"
+    ],
+    "review_number": 251,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "37372926-9865-4cf9-82f9-404af50d7660_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "when i view my channels , inspite of turning off auto media download option , why does multiple pictures when i view , gets auto saved always ?",
+    "output": [
+      "channels"
+    ],
+    "review_number": 252,
+    "extracted_features": [
+      "media"
+    ]
+  },
+  {
+    "id": "0b5983e9-bcb8-45a3-9e5d-e49fdaf928b0_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I 've yet to even barely use the app or join a channel since I recently reinstalled it .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 253,
+    "extracted_features": [
+      "reinstalled"
+    ]
+  },
+  {
+    "id": "c6cfe8f5-f4e7-4dd2-9df5-3f86c5ad1451_s2",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "In a new scam , he confiscated channels that were inactive for two years for the benefit of his company and sold it !",
+    "output": [
+      "channels"
+    ],
+    "review_number": 254,
+    "extracted_features": [
+      "sale"
+    ]
+  },
+  {
+    "id": "8d983edd-5018-47f3-acf4-0393b5d8d42a_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Why we can't pin more than 5 Channels ?",
+    "output": [
+      "Channels"
+    ],
+    "review_number": 255,
+    "extracted_features": [
+      "Channels"
+    ]
+  },
+  {
+    "id": "58136d65-eb20-4cc1-b9fc-6c03965aa821_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I was not spamming on any of the channels , and I was not posting comments that could be viewed as personally offensive .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 256,
+    "extracted_features": [
+      "comments"
+    ]
+  },
+  {
+    "id": "2515f9ba-fb99-4917-a64a-b2e64ff6893f_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "The channel feature allows our church to hold live prayer sessions online without heavy data burdens .",
+    "output": [
+      "channel"
+    ],
+    "review_number": 257,
+    "extracted_features": [
+      "prayer"
+    ]
+  },
+  {
+    "id": "177f2cf3-2fb0-49ec-9781-113278fd35f5_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "The disappointing moment was that we can't schedule file in channel as we can do before ... so fix it in free app version ASAP 👍 🏻",
+    "output": [
+      "channel"
+    ],
+    "review_number": 258,
+    "extracted_features": [
+      "file"
+    ]
+  },
+  {
+    "id": "e873d276-4c71-4910-aa91-8fb6bf560170_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Will give full star if I can create unlimited channels because channel restriction is restricting my business",
+    "output": [
+      "channels",
+      "channel"
+    ],
+    "review_number": 259,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "acd7ccd5-22a4-48b8-a6d4-ddb5df757d43_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "This app is ( not safe ) in India do n't use this app there are many channel and group are doing illegal process from this app recently my phone is hack from this app Police allso can't do any thing do n't use this app",
+    "output": [
+      "channel"
+    ],
+    "review_number": 260,
+    "extracted_features": [
+      "group"
+    ]
+  },
+  {
+    "id": "15d022f3-0e13-4b5a-8bed-4d501955f481_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Think should add option to clear channels",
+    "output": [
+      "channels"
+    ],
+    "review_number": 261,
+    "extracted_features": [
+      "clear channels"
+    ]
+  },
+  {
+    "id": "68780a6e-a8c0-43af-abab-42a538e5aedd_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "My channel is getting banned can i get back my username ?",
+    "output": [
+      "channel"
+    ],
+    "review_number": 262,
+    "extracted_features": [
+      "username"
+    ]
+  },
+  {
+    "id": "b38c7da9-bc88-43eb-91f5-c1f6997f6bd0_s3",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "CONs : Telegram has placed the mute / unmute button under all channels and wastes a centimeter of the mobile screen .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 263,
+    "extracted_features": [
+      "mobile"
+    ]
+  },
+  {
+    "id": "fe46d7e5-3e0f-4bbf-9f3e-5515633be9b2_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I want to join some channels or groups , but the app keeps saying that I have reached a limit of 500 channels .",
+    "output": [
+      "channels",
+      "channels"
+    ],
+    "review_number": 264,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "fe46d7e5-3e0f-4bbf-9f3e-5515633be9b2_s1",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "While all the groups and channels I have are less than 100 .",
+    "output": [
+      "channels"
+    ],
+    "review_number": 265,
+    "extracted_features": [
+      "channels"
+    ]
+  },
+  {
+    "id": "7e14c1e4-36ae-4b04-9f17-359027435395_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "3 star bcoz they start deleting channels which I used to download free latest movies",
+    "output": [
+      "channels"
+    ],
+    "review_number": 266,
+    "extracted_features": [
+      "download"
+    ]
+  },
+  {
+    "id": "d1d49441-598c-462a-b5af-e7d8f9ae191a_s0",
+    "package_name": "org.telegram.messenger",
+    "app_name": "Telegram",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Translator is not working properly .",
+    "output": [
+      "Translator"
+    ],
+    "review_number": 267,
+    "extracted_features": [
+      "Translator"
+    ]
+  },
+  {
+    "id": "208445e4-5ae8-4840-b2c8-0b28575ab37f_s1",
+    "package_name": "com.instagram.android",
+    "app_name": "Instagram",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Please develop hide chats fouction , it should n't be that hard to take that long to do it .",
+    "output": [
+      "hide chats"
+    ],
+    "review_number": 268,
+    "extracted_features": [
+      "hide chats"
+    ]
+  },
+  {
+    "id": "f43c4e64-6e46-454f-9686-adb40e821453_s0",
+    "package_name": "com.instagram.android",
+    "app_name": "Instagram",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Super please hide chat option release",
+    "output": [
+      "hide chat"
+    ],
+    "review_number": 269,
+    "extracted_features": [
+      "chat"
+    ]
+  },
+  {
+    "id": "40c124d4-5330-4f6e-9489-4437d16ab2cb_s5",
+    "package_name": "com.instagram.android",
+    "app_name": "Instagram",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "We tried watching videos to copy what people do who have gone through this with also no success .",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 270,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "8c6aed73-7979-4db4-b7fc-89f2f60dc01f_s0",
+    "package_name": "com.instagram.android",
+    "app_name": "Instagram",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Instagram is my app to browse or watch videos and more",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 271,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "31a06d94-a1e4-4b60-9ee3-7c85ef4fa1d5_s4",
+    "package_name": "com.instagram.android",
+    "app_name": "Instagram",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Not only that , watching videos just randomly stops playing and you have to refresh the video like 3 times for it to play .",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 272,
+    "extracted_features": [
+      "playing"
+    ]
+  },
+  {
+    "id": "1a92cc28-4e14-4748-9992-351cba17cb18_s5",
+    "package_name": "com.instagram.android",
+    "app_name": "Instagram",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "Watched video how to .",
+    "output": [
+      "Watched video"
+    ],
+    "review_number": 273,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "94536a7a-1a65-48c5-aaa3-287fedf17fc3_s0",
+    "package_name": "com.hip.coupleapp",
+    "app_name": "In Love while Parenting",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "I 've enjoyed it and feel like they help , the only problem I have is I do n't watch videos .",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 274,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "f660488d-0180-45b5-ab5e-a264f415f2f4_s0",
+    "package_name": "com.facebook.mlite",
+    "app_name": "Messenger Lite",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I a good app but i can't hide chats 💔",
+    "output": [
+      "hide chats"
+    ],
+    "review_number": 275,
+    "extracted_features": [
+      "chats"
+    ]
+  },
+  {
+    "id": "7be48c11-c03c-4f22-a1b0-b4bac0b56122_s0",
+    "package_name": "com.atomczak.notepat",
+    "app_name": "Notepad - simple notes",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "provide option to purchase , the recent \" remove add by watching video \" is a deal breaker",
+    "output": [
+      "watching video"
+    ],
+    "review_number": 276,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "29ef0add-f22f-488b-a9fb-d7b7bf79e96a_s2",
+    "package_name": "com.simplemobiletools.contacts",
+    "app_name": "Simple Contacts",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "The only missing feature in the paid version is automatic backup and syncing .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 277,
+    "extracted_features": [
+      "syncing"
+    ]
+  },
+  {
+    "id": "845daa2e-c941-4010-ba7a-15acbcac4137_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "This is the best translator apps",
+    "output": [
+      "translator"
+    ],
+    "review_number": 278,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "46b33945-34cf-462f-84dd-86c3d1d05776_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Assamese language is not found in translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 279,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "78b49a58-fd3d-4ffe-8027-60e5bb974cb3_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I love the function of the translator .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 280,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "78179808-4e80-4270-8c1d-6b01012f3bf1_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "AWESOME APP LOOK UP A FLOWER , PLACE , BUILDING , ANTIQUES , FIND OUT HOW TO BUY WHAT YOU WANT AT A RESONABLE PRICE , TEXT FUNCTION READS PAGES BACK YO YOU ACTS AS AN OCR ( OPTICAL CARICATURE RECOGITION ) CREATE A SCAN , AND SO MUCH MORE .",
+    "output": [
+      "OCR"
+    ],
+    "review_number": 281,
+    "extracted_features": [
+      "TEXT"
+    ]
+  },
+  {
+    "id": "9dad81a4-da6a-4e0a-af1f-b46dfb99de1b_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Very nice google translator amazing app improve the service",
+    "output": [
+      "translator"
+    ],
+    "review_number": 282,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "a8374cb9-9f73-4691-912b-247cbbb1e682_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Full comfort with language translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 283,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "08498b4e-817c-4314-9ec0-d2308f649c11_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I like the translator very much and the voice",
+    "output": [
+      "translator"
+    ],
+    "review_number": 284,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "ba6d731e-3275-4934-82d5-8f7727a907c7_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "A very useful translator / text copier / thing identifier / picture searcher .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 285,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "010d2015-df04-4608-bf18-63a0fe2055a0_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Handy translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 286,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "e70ab2a1-1474-45b9-89b9-eb48ff702bdd_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Very useful for a translator while listening to the words ... specially for the beauty products that I 'm using with other languages just take a pic then tadahhh ...",
+    "output": [
+      "translator"
+    ],
+    "review_number": 287,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "782d60ea-825b-4bb7-9b7b-c5737ae7805a_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "What a great translator instantely .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 288,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "a60b888c-8684-41b4-b911-aed39642974c_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Assalumalikum I like this app because it sometimes helps me to understand some arabic words but the one problem I wish it could translate whole ppt rather take a screenshot over and over again and also sometimes I need to translate whole videos of the arabic language into English can you please add video translator and ppt translator it will seriously help me in my studies thank you",
+    "output": [
+      "translator",
+      "translator"
+    ],
+    "review_number": 289,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "385ddcdd-85bb-41b3-9c53-7b1a6c1e592e_s1",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I am old enough to remember when you had to buy OCR software for the scanners hooked up to PCs .",
+    "output": [
+      "OCR"
+    ],
+    "review_number": 290,
+    "extracted_features": [
+      "OCR"
+    ]
+  },
+  {
+    "id": "ee83023f-07e4-4380-b8d6-889b8b20c875_s0",
+    "package_name": "com.google.ar.lens",
+    "app_name": "Google Lens",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "translator is very bed and wrong answer",
+    "output": [
+      "translator"
+    ],
+    "review_number": 291,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "dbf60e06-afe8-4426-a5ae-d6ed725a7256_s1",
+    "package_name": "com.google.android.apps.tasks",
+    "app_name": "Google Tasks",
+    "app_category": [
+      "Calendar",
+      "Task Manager",
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Excellent Task management I use almost daily .",
+    "output": [
+      "Task management"
+    ],
+    "review_number": 292,
+    "extracted_features": [
+      "Task management"
+    ]
+  },
+  {
+    "id": "e1398ea7-4473-4c55-a5fa-6df7a567c813_s1",
+    "package_name": "notepad.note.notas.notes.notizen",
+    "app_name": "BlackNote Notepad Notes",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "There is a bit of a lack of multi device support but I have n't had any issues cause I can just log into my account on my phone and retrieve all my old notes .",
+    "output": [
+      "multi device support"
+    ],
+    "review_number": 293,
+    "extracted_features": [
+      "multi device"
+    ]
+  },
+  {
+    "id": "feea4819-d764-429c-88de-762132ae1ec8_s0",
+    "package_name": "com.bodyfast",
+    "app_name": "BodyFast Intermittent Fasting",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "A simple yet highly motivating tool to help improve overall wellness",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 294,
+    "extracted_features": [
+      "motivating"
+    ]
+  },
+  {
+    "id": "a9007f99-29a6-40c0-a54d-593bc697e03f_s0",
+    "package_name": "menloseweight.loseweightappformen.weightlossformen",
+    "app_name": "Lose Weight App for Men",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "Awesome ⭐⭐⭐⭐ ⭐App to do exercise without any Coaching or watching videos , it will definitely burn out specific calories as shown .",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 295,
+    "extracted_features": [
+      "Coaching"
+    ]
+  },
+  {
+    "id": "50130826-f21b-4e8e-8ccd-04258b16e88d_s0",
+    "package_name": "loseweightapp.loseweightappforwomen.womenworkoutathome",
+    "app_name": "Lose Weight App for Women",
+    "app_category": [
+      "Trail Tracking"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "Supposed to watch video once to u lock the exercise .",
+    "output": [
+      "watch video"
+    ],
+    "review_number": 296,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "752fd4c5-6fac-4376-b5ed-457f72b2a477_s0",
+    "package_name": "statussaver.statusdownloader.downloadstatus.savestatus",
+    "app_name": "Status Saver - WA Downloader",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This is an excellent app for watching videos & images which does n't exist in your phone it works amazing 😇",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 297,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "cd50e60f-8400-4527-babb-7fcbede39f20_s0",
+    "package_name": "org.dayup.gnotes",
+    "app_name": "GNotes - Note, Notepad & Memo",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Automatic backups and syncing to new devices and all the other features you want .",
+    "output": [
+      "Automatic backups"
+    ],
+    "review_number": 298,
+    "extracted_features": [
+      "syncing"
+    ]
+  },
+  {
+    "id": "ee9e2052-0fb1-443a-beda-4346435113d4_s0",
+    "package_name": "com.king.candycrushsaga",
+    "app_name": "Candy Crush Saga",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "GAME_CASUAL"
+    ],
+    "input": "So much fun love the watch video extra guy help when needed",
+    "output": [
+      "watch video"
+    ],
+    "review_number": 299,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "c0889792-59b6-4fad-ba19-c4b0afe73b1c_s2",
+    "package_name": "epic.mychart.android",
+    "app_name": "MyChart",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "MEDICAL"
+    ],
+    "input": "It 's the best when it comes to my health and wellness .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 300,
+    "extracted_features": [
+      "wellness"
+    ]
+  },
+  {
+    "id": "8246dcec-bd2c-4044-adc2-1f6e0515129a_s0",
+    "package_name": "epic.mychart.android",
+    "app_name": "MyChart",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "MEDICAL"
+    ],
+    "input": "This app has made taking care of my wellness needs so much easier .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 301,
+    "extracted_features": [
+      "wellness"
+    ]
+  },
+  {
+    "id": "4a81b8e9-bf81-48d4-b074-9cc56e674c78_s0",
+    "package_name": "epic.mychart.android",
+    "app_name": "MyChart",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "MEDICAL"
+    ],
+    "input": "Scheduled my annual wellness visit and it was a very easy process .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 302,
+    "extracted_features": [
+      "wellness"
+    ]
+  },
+  {
+    "id": "53be60ed-9077-4528-862d-b1641e509048_s1",
+    "package_name": "epic.mychart.android",
+    "app_name": "MyChart",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "MEDICAL"
+    ],
+    "input": "BUT severe lack of bring about to schedule wellness appointments .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 303,
+    "extracted_features": [
+      "wellness"
+    ]
+  },
+  {
+    "id": "1123cce6-dea8-4115-9bad-7d4ed0d29710_s0",
+    "package_name": "com.google.android.apps.translate",
+    "app_name": "Google Translate",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Best translator . 👍",
+    "output": [
+      "translator"
+    ],
+    "review_number": 304,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "564d7246-5552-44d5-b206-4f6c2744beb1_s0",
+    "package_name": "com.google.android.apps.translate",
+    "app_name": "Google Translate",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I had a recording speak French and the translator missed it by a mile .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 305,
+    "extracted_features": [
+      "recording"
+    ]
+  },
+  {
+    "id": "874dafbe-8c16-4a90-8b44-f6cb4cd198f2_s0",
+    "package_name": "com.google.android.apps.translate",
+    "app_name": "Google Translate",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Ca n't use it from the sidebar of my phone after the new update , now i need to open the app separately to use it which is disgusting , i hope we 'll get back the feature soon neither i'm going to change my translator .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 306,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "54e22f80-c122-40a3-a61c-53b8cab976a8_s0",
+    "package_name": "com.downlood.sav.whmedia",
+    "app_name": "Status Saver - Video Download",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Only the watched video is coming",
+    "output": [
+      "watched video"
+    ],
+    "review_number": 307,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "2ceddde1-125e-4e77-8494-05ec9ea4bb98_s2",
+    "package_name": "com.facebook.lite",
+    "app_name": "Facebook Lite",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "So , i ca n't watch videos .",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 308,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "4ea83c30-afac-4f9c-a8ea-17fe0a02fd0d_s0",
+    "package_name": "com.facebook.lite",
+    "app_name": "Facebook Lite",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This app is great but if i want to watch videos it does n't play but just show me the picture of what i want to watch",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 309,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "371a522a-e809-492b-a3dc-70f000d8f580_s0",
+    "package_name": "com.facebook.lite",
+    "app_name": "Facebook Lite",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "This version is very faulty and i cant watch videos because they dont play and when i go into the videos my fone freezes then i have restart my phone",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 310,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "fd7cc062-c763-4124-884b-fb5ad0240833_s1",
+    "package_name": "com.facebook.lite",
+    "app_name": "Facebook Lite",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "But I can't watch videos on Facebook lite , I tried uninstalling it and later installed the app again but it 's still faulty",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 311,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "ca580866-4413-4506-b354-4d9923eed889_s0",
+    "package_name": "com.facebook.lite",
+    "app_name": "Facebook Lite",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "SOCIAL"
+    ],
+    "input": "lite is ugly now when I open the lag right away and I can't watch videos or view myday since it updated , I uninstalled it several times but nothing I hope it goes well",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 312,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "83549237-c45e-4db9-9a05-7f267bef1a6b_s0",
+    "package_name": "org.xbmc.kodi",
+    "app_name": "Kodi",
+    "app_category": [
+      "Weather"
+    ],
+    "google_play_category": [
+      "VIDEO_PLAYERS"
+    ],
+    "input": "Kodi updates greatly improve the functionalty of watching video downloads",
+    "output": [
+      "watching video"
+    ],
+    "review_number": 313,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "c87a0140-d0c3-4462-b67c-199de3813e83_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Rare translator functionality compared to other apps .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 314,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "98fd717b-bbf5-4a18-87df-e8623259a0e6_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "It is so helpful , awesome 😎 translator .",
+    "output": [
+      "translator"
+    ],
+    "review_number": 315,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "41b78682-a440-4d4d-9f79-eae206ecda9c_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Good translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 316,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "c74dca17-fdf9-4ecd-b29f-0a49d018d846_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "This translator app very helpful",
+    "output": [
+      "translator"
+    ],
+    "review_number": 317,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "fec5d448-1092-425d-be27-232b0bffce7a_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Best ever translator app ever used",
+    "output": [
+      "translator"
+    ],
+    "review_number": 318,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "6fcdad9d-e47c-4775-9757-04d01b5a41c7_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "I 've been using this app for ages and it's one of the most diverse , accurate translators ever .",
+    "output": [
+      "translators"
+    ],
+    "review_number": 319,
+    "extracted_features": [
+      "translators"
+    ]
+  },
+  {
+    "id": "8572c7ae-4e3f-4ec5-9423-54168663aa5e_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "THE BEST TRANSLATOR",
+    "output": [
+      "TRANSLATOR"
+    ],
+    "review_number": 320,
+    "extracted_features": [
+      "TRANSLATOR"
+    ]
+  },
+  {
+    "id": "e6ce9b3e-f870-4bfc-a63c-cb6e6e9cbf62_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Good Translator",
+    "output": [
+      "Translator"
+    ],
+    "review_number": 321,
+    "extracted_features": [
+      "Translator"
+    ]
+  },
+  {
+    "id": "d7a892fe-e889-4530-a2e3-3824b55715bb_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Most freaking AMAZING translator I 've ever seen",
+    "output": [
+      "translator"
+    ],
+    "review_number": 322,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "441abba6-51a9-46bd-aa4b-1abcf3a2852c_s0",
+    "package_name": "com.microsoft.translator",
+    "app_name": "Microsoft Translator",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Best App translator for all languages , ...",
+    "output": [
+      "translator"
+    ],
+    "review_number": 323,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "e0e45acf-5c2e-4ccf-bf7c-215f7b4bd934_s2",
+    "package_name": "com.google.android.apps.wellbeing",
+    "app_name": "Digital Wellbeing",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Due to the restrictions the app places on the use of my phone I need to turn off the functions of this app each morning in order to engage in my wellness routine .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 324,
+    "extracted_features": [
+      "restrictions"
+    ]
+  },
+  {
+    "id": "01faf576-6b93-422f-a845-9d1e05696be4_s0",
+    "package_name": "com.topfreegames.bikeracefreeworld",
+    "app_name": "Bike Race：Motorcycle Games",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "Unable to create duel and watch video",
+    "output": [
+      "watch video"
+    ],
+    "review_number": 325,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "d817f99c-be97-4737-bba1-c931b8a4ea61_s1",
+    "package_name": "com.topfreegames.bikeracefreeworld",
+    "app_name": "Bike Race：Motorcycle Games",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "and the option to get free bikes for 5 mins after watching video doesnt seems to be good ' its tottally fake ' when i click to watch video ' it shows currently no video available 💔🙂very bad",
+    "output": [
+      "watching video",
+      "watch video"
+    ],
+    "review_number": 326,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "14986a0e-7b07-48a6-99e0-f5966ae04062_s1",
+    "package_name": "com.hb.dialer.free",
+    "app_name": "True Phone Dialer & Contacts",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "But something missed .... Volte Video Calling ....",
+    "output": [
+      "Video Calling"
+    ],
+    "review_number": 327,
+    "extracted_features": [
+      "Video Calling"
+    ]
+  },
+  {
+    "id": "30dc0a1b-4509-4286-84c4-6ff0a0ecf863_s0",
+    "package_name": "com.hb.dialer.free",
+    "app_name": "True Phone Dialer & Contacts",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "App Is Fantastic But It Needed Direct Video Calling Feature .",
+    "output": [
+      "Video Calling"
+    ],
+    "review_number": 328,
+    "extracted_features": [
+      "Video Calling"
+    ]
+  },
+  {
+    "id": "091ced68-a164-4ea8-a081-80cb166fc0c1_s1",
+    "package_name": "com.sir.racing.ultimatecardrivingsimulatorclassics",
+    "app_name": "Ultimate Car Driving: Classics",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "GAME_RACING"
+    ],
+    "input": "You have to watch videos before you can even buy a car ?",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 329,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "817eb545-7a06-4663-b9cf-b40c18e617a0_s0",
+    "package_name": "com.drilens.wamr",
+    "app_name": "WAMR - Recover deleted message",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Its aa very good app , helps in deleting messges , appears fast , but it shoud improve in one time watch videos and photos in whats app also show in WAMR application , otherwise it 's aa good app ....",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 330,
+    "extracted_features": [
+      "messages"
+    ]
+  },
+  {
+    "id": "ff69af19-f68f-4d49-8494-068019c90a8b_s0",
+    "package_name": "com.smartertime",
+    "app_name": "Smarter Time - Time Management",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Quite amazed by this app and how it can provide a detailed , surprisingly accurate view of your 24 - hour schedule that will allow you to balance and prioritize your time with features such as multi-sync , location - based awareness , and more .",
+    "output": [
+      "location - based"
+    ],
+    "review_number": 331,
+    "extracted_features": [
+      "multi-sync"
+    ]
+  },
+  {
+    "id": "4de65ead-c124-4bc9-ba51-ebf34541b9ab_s0",
+    "package_name": "com.winwalk.android",
+    "app_name": "winwalk - rewards for walking",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "So far so good , not had app long enough to accumulate points for reward yet so can't comment on pay out but step counter works with extra points for watching videos .",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 332,
+    "extracted_features": [
+      "step counter"
+    ]
+  },
+  {
+    "id": "6f0e9fe3-6862-465c-b9fe-5fef3d32d54d_s1",
+    "package_name": "com.facebook.orca",
+    "app_name": "Messenger",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Another is everytime i watch videos sent , it bugs too , it will mess up the app and lags ..",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 333,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "64b5b4c9-0e8b-4dd9-84a4-5ebb760213d8_s0",
+    "package_name": "com.comuto",
+    "app_name": "BlaBlaCar: Carpooling and Bus",
+    "app_category": [
+      "POI Report"
+    ],
+    "google_play_category": [
+      "TRAVEL_AND_LOCAL"
+    ],
+    "input": "Very useful App , especially at the time of soaring fuel prices and ecological concerns .",
+    "output": [
+      "ecological"
+    ],
+    "review_number": 334,
+    "extracted_features": [
+      "ecological"
+    ]
+  },
+  {
+    "id": "a54dc4a9-70b8-48dd-9ef8-4d8926340ff7_s1",
+    "package_name": "habittracker.todolist.tickit.daily.planner",
+    "app_name": "Habit Tracker - Habit Diary",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "LIFESTYLE"
+    ],
+    "input": "Goals are so easy to organise and the best thing is that you can unlock more and more goals by watching videos rather than buying the premium version .",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 335,
+    "extracted_features": [
+      "Goals"
+    ]
+  },
+  {
+    "id": "4e4c8dbf-1699-47b9-8bf5-7b4e82fdbae5_s0",
+    "package_name": "com.sega.CrazyTaxiplayhaven",
+    "app_name": "Crazy Taxi Classic",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "GAME_ARCADE"
+    ],
+    "input": "Wellness",
+    "output": [
+      "Wellness"
+    ],
+    "review_number": 336,
+    "extracted_features": [
+      "Wellness"
+    ]
+  },
+  {
+    "id": "17bdb6b0-933f-446e-9e05-0dd4dd98e6ed_s2",
+    "package_name": "com.garbek.listwizard",
+    "app_name": "Make-A-List",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "The reason I only give 4 stars is because they do n't provide an automatic backup system for your lists like others do .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 337,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "d89b2357-96e8-4089-8ebf-d1d3c88758b0_s0",
+    "package_name": "com.google.android.apps.accessibility.reveal",
+    "app_name": "Lookout - Assisted vision",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Thank you developers it is working well , compare to other OCR apps it is working verry accurately definitely it is artificial Eye for me , one more please add auto language deduction , Kannada language and PDF reader , this is humble Request , finally allow to join beta version",
+    "output": [
+      "OCR"
+    ],
+    "review_number": 338,
+    "extracted_features": [
+      "PDF"
+    ]
+  },
+  {
+    "id": "962d0135-96c6-41da-b8bf-f706cd3cc3b0_s0",
+    "package_name": "homeworkout.homeworkouts.noequipment",
+    "app_name": "Home Workout - No Equipment",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity",
+      "Air quality"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "This app is awesome , the best app for over health wellness , well done good job",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 339,
+    "extracted_features": [
+      "wellness"
+    ]
+  },
+  {
+    "id": "ad8f1bef-df4a-4bfa-8adc-7882fa7486f4_s2",
+    "package_name": "com.steadfastinnovation.android.projectpapyrus",
+    "app_name": "Squid: Take Notes, Markup PDFs",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "First is the OCR and \" writing to text \" conversion ability not being present in the app , and second is that \" search of the hand written text \" is also absent .",
+    "output": [
+      "OCR"
+    ],
+    "review_number": 340,
+    "extracted_features": [
+      "OCR"
+    ]
+  },
+  {
+    "id": "99026f0b-efb3-4933-a170-450b79ed08c8_s9",
+    "package_name": "com.steadfastinnovation.android.projectpapyrus",
+    "app_name": "Squid: Take Notes, Markup PDFs",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "- There is no option to auto backup to Google Drive or OneDrive .",
+    "output": [
+      "backup to Google Drive"
+    ],
+    "review_number": 341,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "3a9da72c-e1ec-445a-9545-c48bec275bbf_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Does not backup media just text and the automatic backup feature does not work , I would have to go into the app and manually backup each time .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 342,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "2d4664dc-e3a2-48db-a85f-48dd822e99bb_s2",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I can still run manual backups , but the automatic backups just are n't kicking off as they used to .",
+    "output": [
+      "automatic backups"
+    ],
+    "review_number": 343,
+    "extracted_features": [
+      "manual backups"
+    ]
+  },
+  {
+    "id": "f6896b60-e387-44d9-859b-6c899c3e1bba_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I would give it 5 stars , but the Automatic Backup functionality seems to be broken .",
+    "output": [
+      "Automatic Backup"
+    ],
+    "review_number": 344,
+    "extracted_features": [
+      "Backup"
+    ]
+  },
+  {
+    "id": "de17c245-1cd6-4f4c-b9fd-6a8a360a4fa2_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "The automatic backup does n't work on my husband 's Droid z3 .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 345,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "a1ce848a-be8f-4d1c-8596-645cc68b18fc_s1",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Automatic backup having issues .",
+    "output": [
+      "Automatic backup"
+    ],
+    "review_number": 346,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "2e3d2320-e915-440e-9ecc-b9e8fa4a5021_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "stopped automatic backup in oxygen os 9",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 347,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "48076a0d-fef0-4676-96d8-18f81665b26e_s1",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Does the automatic backup ( set for 30 min ) continue after interupted by recent apps clearing ?",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 348,
+    "extracted_features": [
+      "automatic backup"
+    ]
+  },
+  {
+    "id": "848eaf25-6f38-40ca-b95d-79c5770f0315_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "App is great but automatic backup is not kicking off , I always have to initiate the backup explicitly .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 349,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "2c56fbf6-a042-4e50-bd71-df99625edd04_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Used for years and was brilliant , worked silently and perfectly in the background , but something has changed ( Android 9 ( pie ) ? ) as others have commented automatic backup seems to have stopped lately ... tried reset of sync , clearing cache and data , uninstalled and reinstalled , deleting all SMS ' from Google and re-backed them all up and finally deleted all SMS ' from phone and restored in - app from Google , nothing fixes it ...",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 350,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "f5ba8b16-6ddf-4c01-99b6-f8af12416cae_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Does not work the automatic backup on my Huawei P20 Pro !",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 351,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "c8fe7670-bac5-4c3c-bc45-c283a4da870b_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I 've been using this APP for years and loved it , but recently the automatic backup stopped working .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 352,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "b69b2ada-6a6f-4539-a129-25e151c51ab9_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Aug post : Lately the app does not do automatic backups forcing me to manually backup .",
+    "output": [
+      "automatic backups"
+    ],
+    "review_number": 353,
+    "extracted_features": [
+      "backups"
+    ]
+  },
+  {
+    "id": "e33dc535-b3dd-433d-9e00-37130cc1cf9d_s1",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "This app solves that problem with easy automatic backups happing in the background .",
+    "output": [
+      "automatic backups"
+    ],
+    "review_number": 354,
+    "extracted_features": [
+      "automatic backups"
+    ]
+  },
+  {
+    "id": "a68fadde-2dc1-41b2-86eb-9f2ce3568d2a_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Installed in April , turned on automatic backup , and let it be .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 355,
+    "extracted_features": [
+      "automatic backup"
+    ]
+  },
+  {
+    "id": "75545171-6dfd-464c-9c5b-f977b6a202ff_s0",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "Used to be a good app for automatic backups , but now , after the last update , it stopped doing automatic backups , no matter what I tried .",
+    "output": [
+      "automatic backups",
+      "automatic backups"
+    ],
+    "review_number": 356,
+    "extracted_features": [
+      "backups"
+    ]
+  },
+  {
+    "id": "6165b176-d2a4-4420-b599-0fded79d6c13_s1",
+    "package_name": "com.zegoggles.smssync",
+    "app_name": "SMS Backup+",
+    "app_category": [
+      "Calendar"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I truly appreciate having an automatic backup so I can go any time in the future and read our conversations if I were to change my phone .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 357,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "c5ebc27f-0588-46f7-84c2-43a700227c6d_s0",
+    "package_name": "com.wlbt.android.weather",
+    "app_name": "First Alert Weather",
+    "app_category": [
+      "Weather"
+    ],
+    "google_play_category": [
+      "WEATHER"
+    ],
+    "input": "Ca n't watch video because it does n't play all of it .",
+    "output": [
+      "watch video"
+    ],
+    "review_number": 358,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "425b71c1-6701-475c-a8df-56095b960581_s2",
+    "package_name": "com.simplehabit.simplehabitapp",
+    "app_name": "Simple Habit: Meditation",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "I also find the guides voices more relaxing and less \" smug wellness person \" ( sorry ! ) than many of the Calm ones .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 359,
+    "extracted_features": [
+      "Calm"
+    ]
+  },
+  {
+    "id": "48a98a20-08df-40a3-b0e8-73118b1934cc_s0",
+    "package_name": "com.simplehabit.simplehabitapp",
+    "app_name": "Simple Habit: Meditation",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "Good companion app for wellness with wide range of meditative topics to choose from .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 360,
+    "extracted_features": [
+      "meditative"
+    ]
+  },
+  {
+    "id": "64067cae-140d-47d8-bf87-164a72cee6e3_s0",
+    "package_name": "co.thefabulous.app",
+    "app_name": "Fabulous Daily Routine Planner",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "Good app but I 'm disgusted that a wellness app like this has such a disgustingly difficult method for cancelling subscriptions .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 361,
+    "extracted_features": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "f84bbf67-38a0-48e7-a966-baade1ccebdc_s0",
+    "package_name": "com.globile.mycontactbackup",
+    "app_name": "MCBackup - My Contacts Backup",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Will not backup to Google Drive or via Bluetooth",
+    "output": [
+      "backup to Google Drive"
+    ],
+    "review_number": 362,
+    "extracted_features": [
+      "backup to Google Drive"
+    ]
+  },
+  {
+    "id": "92707371-83ce-4841-bac0-11e26edc1fcc_s0",
+    "package_name": "com.google.android.apps.playconsole",
+    "app_name": "Google Play Console",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "This app could receiving and sending Blockchain payment in Cryptocurrency and fiat .",
+    "output": [
+      "Blockchain"
+    ],
+    "review_number": 363,
+    "extracted_features": [
+      "Cryptocurrency"
+    ]
+  },
+  {
+    "id": "4f898bfd-925d-4d02-a4fe-a74217f5ef7f_s0",
+    "package_name": "com.traductorweb",
+    "app_name": "Photo Translator - Text & Web",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "A good translator",
+    "output": [
+      "translator"
+    ],
+    "review_number": 364,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "d29133e7-fe30-4ffb-bc79-d55c7f8bc57e_s0",
+    "package_name": "com.traductorweb",
+    "app_name": "Photo Translator - Text & Web",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "this is the best app in translator good job welldone👌👌 👌",
+    "output": [
+      "translator"
+    ],
+    "review_number": 365,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "7004f403-6f2c-460a-adef-b39f38f0d26d_s0",
+    "package_name": "com.traductorweb",
+    "app_name": "Photo Translator - Text & Web",
+    "app_category": [
+      "GPS/Maps"
+    ],
+    "google_play_category": [
+      "TOOLS"
+    ],
+    "input": "I really like the translator thanks for making this",
+    "output": [
+      "translator"
+    ],
+    "review_number": 366,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "f7ff777e-915b-4fd3-9b09-d545618b2f6d_s1",
+    "package_name": "org.isoron.uhabits",
+    "app_name": "Loop Habit Tracker",
+    "app_category": [
+      "Task Manager",
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Please , how can I set up a daily automatic backup export ?",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 367,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "9a22acd2-8a54-4491-a545-38b822d66227_s0",
+    "package_name": "org.isoron.uhabits",
+    "app_name": "Loop Habit Tracker",
+    "app_category": [
+      "Task Manager",
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "I just there would be automatic backup / sync with Google Account",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 368,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "a38cc836-64cf-4235-99d9-04e3acdbb41f_s1",
+    "package_name": "org.isoron.uhabits",
+    "app_name": "Loop Habit Tracker",
+    "app_category": [
+      "Task Manager",
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "It would be better if automatic backup is supported .",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 369,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "2bba20fe-24d2-42e7-ac0a-f173de0ea6cf_s1",
+    "package_name": "org.isoron.uhabits",
+    "app_name": "Loop Habit Tracker",
+    "app_category": [
+      "Task Manager",
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "EDIT : Why no automatic backup to Google drive ?",
+    "output": [
+      "automatic backup"
+    ],
+    "review_number": 370,
+    "extracted_features": [
+      "backup"
+    ]
+  },
+  {
+    "id": "4bc8a576-acd7-4240-9fb2-8cc68cefe1a8_s2",
+    "package_name": "com.zoho.notebook",
+    "app_name": "Notebook - Notes,To-do,Journal",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "UPDATE 1 : It 'd be great to add annotation and OCR scan text features for pdfs UPDATE 2 : it'd be great to create multiple users with the same account ( 1 x college 1 x personal life ) .",
+    "output": [
+      "OCR"
+    ],
+    "review_number": 371,
+    "extracted_features": [
+      "multiple users"
+    ]
+  },
+  {
+    "id": "56af60e4-5ddc-465c-b9dc-4fb767ad77a1_s1",
+    "package_name": "com.movile.playkids.pkxd",
+    "app_name": "PK XD - Explore Universes!",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "GAME_ADVENTURE"
+    ],
+    "input": "So please always check nethier there is something new update or not and watch videos of pk xd then you will get it the new update is coming ok stay turn !!!",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 372,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "1b8caa22-ea2c-4d20-aba7-95b9ab400991_s0",
+    "package_name": "io.yuka.android",
+    "app_name": "Yuka - Food & cosmetic scan",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "A very cool tool for your health and wellness .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 373,
+    "extracted_features": [
+      "tool"
+    ]
+  },
+  {
+    "id": "463cfab0-abeb-4fca-9c66-7c1300ee4945_s0",
+    "package_name": "com.snapchat.android",
+    "app_name": "Snapchat",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I love it and in Snapchat u can take pictures 🌆🏜 🌠with nice filters and u can watch videos or u can make videos and u can also chat and do streaks with ur friends 👭👬but one problem is that u can't post like videos in ur gallery u can only post if u save the photos in Snapchat or making it in Snapchat but I still recommend this app souch love it !!",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 374,
+    "extracted_features": [
+      "chat"
+    ]
+  },
+  {
+    "id": "9e4f80be-f414-4004-8b36-42d2633b4b20_s0",
+    "package_name": "com.snapchat.android",
+    "app_name": "Snapchat",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I 'd probably use this app more and spend more time watching videos on it if it was n't the same three ads every ten seconds",
+    "output": [
+      "watching videos"
+    ],
+    "review_number": 375,
+    "extracted_features": [
+      "videos"
+    ]
+  },
+  {
+    "id": "9824becb-4c0d-4c7a-9355-9d9b018d6d3d_s0",
+    "package_name": "com.snapchat.android",
+    "app_name": "Snapchat",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "cant watch videos in my memories",
+    "output": [
+      "watch videos"
+    ],
+    "review_number": 376,
+    "extracted_features": [
+      "memories"
+    ]
+  },
+  {
+    "id": "75114847-71c1-4444-a4d7-bde09eff1c2b_s4",
+    "package_name": "com.snapchat.android",
+    "app_name": "Snapchat",
+    "app_category": [
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "I can chat with my friends and family and instead of TikTok I can use Snapchat To watch video ( spotlights )",
+    "output": [
+      "watch video"
+    ],
+    "review_number": 377,
+    "extracted_features": [
+      "video"
+    ]
+  },
+  {
+    "id": "a78b26cb-c132-4d21-8578-f0b02596c98c_s4",
+    "package_name": "com.soneto.blocos",
+    "app_name": "blocos - time block & daily pl",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Automatic backup / syncing would be nice too .",
+    "output": [
+      "Automatic backup"
+    ],
+    "review_number": 378,
+    "extracted_features": [
+      "syncing"
+    ]
+  },
+  {
+    "id": "8d1fdfa2-88b2-416b-80cf-5c230dace87e_s0",
+    "package_name": "com.stuff.todo",
+    "app_name": "Stuff - To Do List Widget",
+    "app_category": [
+      "Task Manager"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "Excellent app , would love it if it had automatic backups ( local and cloud ) .",
+    "output": [
+      "automatic backups"
+    ],
+    "review_number": 379,
+    "extracted_features": [
+      "cloud"
+    ]
+  },
+  {
+    "id": "95def3d1-b960-47cc-8b56-620a56694761_s1",
+    "package_name": "com.divinememorygames.pedometer",
+    "app_name": "Step Counter - Pedometer King",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "It 's very easy to use and it's a great tool for my wellness routine .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 380,
+    "extracted_features": [
+      "tool"
+    ]
+  },
+  {
+    "id": "9c199d29-7212-47b5-b4c1-5a75adc19a2b_s1",
+    "package_name": "com.divinememorygames.pedometer",
+    "app_name": "Step Counter - Pedometer King",
+    "app_category": [
+      "Trail Tracking",
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "It has really made a big difference in my health and wellness .",
+    "output": [
+      "wellness"
+    ],
+    "review_number": 381,
+    "extracted_features": [
+      "wellness"
+    ]
+  },
+  {
+    "id": "b5176dcd-2335-4796-aa60-05fd740033d2_s0",
+    "package_name": "com.whatsapp",
+    "app_name": "WhatsApp Messenger",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "Add hide chat features",
+    "output": [
+      "hide chat"
+    ],
+    "review_number": 382,
+    "extracted_features": [
+      "chat"
+    ]
+  },
+  {
+    "id": "872ce030-3cd6-4969-897d-36ee7deaf047_s0",
+    "package_name": "com.whatsapp",
+    "app_name": "WhatsApp Messenger",
+    "app_category": [
+      "POI Report",
+      "GPS/Maps",
+      "Instant Messaging"
+    ],
+    "google_play_category": [
+      "COMMUNICATION"
+    ],
+    "input": "This is a wonderful app thankyou , kindly its my suggestion that you bring on bord the language translator option .......",
+    "output": [
+      "translator"
+    ],
+    "review_number": 383,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "0759e2bc-0f59-411a-a61c-13eb12fa62d6_s1",
+    "package_name": "com.runtastic.android",
+    "app_name": "adidas Running: Sports Tracker",
+    "app_category": [
+      "Sports Activity"
+    ],
+    "google_play_category": [
+      "HEALTH_AND_FITNESS"
+    ],
+    "input": "Can I suggest a translator in the news feed with our friends we follow please",
+    "output": [
+      "translator"
+    ],
+    "review_number": 384,
+    "extracted_features": [
+      "translator"
+    ]
+  },
+  {
+    "id": "8f258dca-c884-43b3-81bd-d3e4daecd836_s0",
+    "package_name": "com.google.android.keep",
+    "app_name": "Google Keep - Notes and Lists",
+    "app_category": [
+      "Notes"
+    ],
+    "google_play_category": [
+      "PRODUCTIVITY"
+    ],
+    "input": "It 's good but there is a option needed export to HTML file .. please",
+    "output": [
+      "export to HTML"
+    ],
+    "review_number": 385,
+    "extracted_features": [
+      "HTML"
+    ]
+  }
+]

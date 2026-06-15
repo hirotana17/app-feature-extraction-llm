@@ -175,6 +175,7 @@ Thumbs.db
 # others
 data/**
 docs/**
+data-lab-server/**
 logs/
 artifacts/
 .vscode/
@@ -187,4 +188,6 @@ unsloth_compiled_cache/
 !data/in-domain/*/original_data/**
 !data/in-domain/*/formatted_original_data/
 !data/in-domain/*/formatted_original_data/**
+!data/in-domain/*/feature_extracted_data/
+!data/in-domain/*/feature_extracted_data/**
 
